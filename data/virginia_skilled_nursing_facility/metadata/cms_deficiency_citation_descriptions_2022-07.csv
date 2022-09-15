@@ -35,7 +35,7 @@ F,156,F-0156,"Give residents a notice of rights, rules, services and charges.",R
 F,157,F-0157,"Immediately tell the resident, the resident's doctor, and a family member of situations (injury/decline/room, etc.)  that affect the resident.",Resident Rights Deficiencies
 F,158,F-0158,Let residents choose whether to manage their own money or deposit it with the nursing home.,Resident Rights Deficiencies
 F,159,F-0159,"Properly hold, secure, and manage each resident's personal money which is deposited with the nursing home.",Resident Rights Deficiencies
-F,160,F-0160,"Upon the death of a resident, convey the resident’s personal funds and an accounting of those funds to the appropriate party.",Resident Rights Deficiencies
+F,160,F-0160,"Upon the death of a resident, convey the residentâ€™s personal funds and an accounting of those funds to the appropriate party.",Resident Rights Deficiencies
 F,161,F-0161,Provide proof that residents' personal money that is deposited with the nursing home is secure.,Resident Rights Deficiencies
 F,162,F-0162,Limit the charges against residents' personal funds for items or services for which payment is made under Medicare or Medicaid.,Resident Rights Deficiencies
 F,163,F-0163,Let residents choose a personal doctor.,Resident Rights Deficiencies
@@ -57,7 +57,7 @@ F,201,F-0201,Permit residents to remain in the facility and not be transferred o
 F,202,F-0202,Provide written records when a resident is transferred or discharged.,Resident Rights Deficiencies
 F,203,F-0203,Provide timely notification to the resident before transfer or discharge.,Resident Rights Deficiencies
 F,204,F-0204,Help and prepare each resident for a safe and easy discharge or transfer from the nursing home.,Resident Rights Deficiencies
-F,205,F-0205,Tell the resident or the resident’s representative in writing how long the nursing home will hold the resident’s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
+F,205,F-0205,Tell the resident or the residentâ€™s representative in writing how long the nursing home will hold the residentâ€™s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
 F,206,F-0206,Establish and follow a written policy that permits a resident to return to the nursing home after hospitalization or therapeutic leave that exceeds bed-hold policy.,Resident Rights Deficiencies
 F,207,F-0207,"Use identical practices regarding transfer, discharge, and services for all residents, regardless of payment source",Resident Rights Deficiencies
 F,208,F-0208,1) Protect current or future residents from giving up their Medicaid or Medicare benefits; or 2) follow federal rules for admissions.,Resident Rights Deficiencies
@@ -90,7 +90,7 @@ F,272,F-0272,Conduct initial and periodic assessments of each resident's functio
 F,273,F-0273,Assess in a timely manner the resident when the resident enters the nursing home.,Resident Assessment and Care Planning Deficiencies
 F,274,F-0274,Review or revise the resident's care plan after any major change in physical or mental health.,Resident Assessment and Care Planning Deficiencies
 F,275,F-0275,Completely assess the resident at least every twelve months.,Resident Assessment and Care Planning Deficiencies
-F,276,F-0276,Assure that each resident’s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
+F,276,F-0276,Assure that each residentâ€™s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
 F,278,F-0278,Ensure each resident receives an accurate assessment by a qualified health professional.,Resident Assessment and Care Planning Deficiencies
 F,279,F-0279,"Develop a complete care plan that meets all the resident's needs, with timetables and actions that can be measured.",Resident Assessment and Care Planning Deficiencies
 F,280,F-0280,Allow residents the right to participate in the planning or revision of care and treatment.,Resident Assessment and Care Planning Deficiencies
@@ -100,7 +100,7 @@ F,283,F-0283,"Provide proper discharge planning and communication, of the reside
 F,284,F-0284,Develop a post-discharge plan with the resident and family for the resident's care after leaving the nursing home.,Resident Assessment and Care Planning Deficiencies
 F,285,F-0285,Coordinate assessments with the pre-admission screening and resident review program for mentally-ill and mentally-retarded patients.,Resident Assessment and Care Planning Deficiencies
 F,286,F-0286,Maintain 15 months of resident assessments in the resident's active clinical record.,Resident Assessment and Care Planning Deficiencies
-F,287,F-0287,Encode each resident’s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
+F,287,F-0287,Encode each residentâ€™s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
 F,309,F-0309,Provide necessary care and services to maintain or improve the highest well being of each resident .,Quality of Life and Care Deficiencies
 F,310,F-0310,"Make sure that each residents' abilities in activities of daily living do not decline, unless unavoidable.",Quality of Life and Care Deficiencies
 F,311,F-0311,Make sure that residents receive treatments/services to maintain or improve their ability to care for themselves.,Quality of Life and Care Deficiencies
@@ -108,10 +108,10 @@ F,312,F-0312,"Assist those residents who need help with eating/drinking, groomin
 F,313,F-0313,Ensure that residents receive proper treatment and assistive devices to maintain their vision and hearing.,Quality of Life and Care Deficiencies
 F,314,F-0314,Give residents proper treatment to prevent new bed (pressure) sores or heal existing bed sores.,Quality of Life and Care Deficiencies
 F,315,F-0315,"Ensure that each resident who enters the nursing home without a catheter is not given a catheter, unless medically necessary, and that incontinent patients receive proper services to prevent urinary tract infections and restore normal bladder functions.",Quality of Life and Care Deficiencies
-F,317,F-0317,"Prevent a loss in range of motion among residents who entered the nursing home with a full range of motion, unless it is unavoidable due to resident’s clinical condition.",Quality of Life and Care Deficiencies
+F,317,F-0317,"Prevent a loss in range of motion among residents who entered the nursing home with a full range of motion, unless it is unavoidable due to residentâ€™s clinical condition.",Quality of Life and Care Deficiencies
 F,318,F-0318,Ensure that residents with limited range of motion receive appropriate treatment and services to increase range of motion or prevent further decrease in range of motion.,Quality of Life and Care Deficiencies
 F,319,F-0319,Give the right treatment and services to residents who display physical or psychosocial problems adapting to changes in circumstances.,Quality of Life and Care Deficiencies
-F,320,F-0320,Evaluate a resident’s decrease in social interaction or increase in depressive behaviors and determine if the behavioral changes were avoidable if these problems did not exist before.,Quality of Life and Care Deficiencies
+F,320,F-0320,Evaluate a residentâ€™s decrease in social interaction or increase in depressive behaviors and determine if the behavioral changes were avoidable if these problems did not exist before.,Quality of Life and Care Deficiencies
 F,322,F-0322,"Give proper treatment to residents with feeding tubes to prevent problems (such as aspiration pneumonia, diarrhea, vomiting, dehydration, metabolic abnormalities, nasal-pharyngeal ulcers) and help restore eating skills, if possible.",Quality of Life and Care Deficiencies
 F,323,F-0323,Ensure that a nursing home area is free from accident hazards and provide adequate supervision to prevent avoidable accidents.,Environmental Deficiencies
 F,325,F-0325,Ensure residents maintain acceptable nutritional status.,Quality of Life and Care Deficiencies
@@ -160,7 +160,7 @@ F,458,F-0458,Provide rooms that are at least 80 square feet per resident in mult
 F,459,F-0459,Provide bedrooms that have direct access to an exit hallway.,Environmental Deficiencies
 F,460,F-0460,Provide bedrooms that don't allow residents to see each other when privacy is needed.,Environmental Deficiencies
 F,461,F-0461,Make sure each resident has 1) at least one window to the outside in a room; 2) a room at or above ground level; 3) adequate bedding; 4) furniture that meets the resident's needs; or 5) adequate closet space.,Environmental Deficiencies
-F,462,F-0462,Provide a bathroom in or located near each resident’s room.,Environmental Deficiencies
+F,462,F-0462,Provide a bathroom in or located near each residentâ€™s room.,Environmental Deficiencies
 F,463,F-0463,Make sure that a working call system is available in each resident's room or bathroom and bathing area.,Environmental Deficiencies
 F,464,F-0464,"Provide at least one room set aside to use as a resident dining room and for activities, that is a good size, with good lighting, air flow and furniture.",Environmental Deficiencies
 F,465,F-0465,"Make sure that the nursing home area is safe, easy to use, clean and comfortable for residents, staff and the public.",Environmental Deficiencies
@@ -255,14 +255,14 @@ F,621,F-0621,"Treat residents equally regarding transfer, discharge, and provisi
 F,622,F-0622,Not transfer or discharge a resident without an adequate reason; and must provide documentation and convey specific information  when a resident is transferred or discharged.,Resident Rights Deficiencies
 F,623,F-0623,"Provide timely notification to the resident, and if applicable to the resident representative and ombudsman, before transfer or discharge, including appeal rights.",Resident Rights Deficiencies
 F,624,F-0624,Prepare residents for a safe transfer or discharge from the nursing home.,Resident Rights Deficiencies
-F,625,F-0625,Notify the resident or the resident’s representative in writing how long the nursing home will hold the resident’s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
+F,625,F-0625,Notify the resident or the residentâ€™s representative in writing how long the nursing home will hold the residentâ€™s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
 F,626,F-0626,Permit a resident to return to the nursing home after hospitalization or therapeutic leave that exceeds bed-hold policy.,Resident Rights Deficiencies
 F,635,F-0635,Provide doctor's orders for the resident's immediate care at the time the resident was admitted.,Resident Assessment and Care Planning Deficiencies
 F,636,F-0636,"Assess the resident completely in a timely manner  when first admitted, and then periodically, at least every 12 months.",Resident Assessment and Care Planning Deficiencies
 F,637,F-0637,Assess the resident when there is a significant change in condition,Resident Assessment and Care Planning Deficiencies
-F,638,F-0638,Assure that each resident’s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
+F,638,F-0638,Assure that each residentâ€™s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
 F,639,F-0639,Maintain 15 months of resident assessments in the resident's active clinical record.,Resident Assessment and Care Planning Deficiencies
-F,640,F-0640,Encode each resident’s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
+F,640,F-0640,Encode each residentâ€™s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
 F,641,F-0641,Ensure each resident receives an accurate assessment.,Resident Assessment and Care Planning Deficiencies
 F,642,F-0642,Ensure a qualified health professional conducts resident assessments.,Resident Assessment and Care Planning Deficiencies
 F,644,F-0644,Coordinate assessments with the pre-admission screening and resident review program; and referring for services as needed.,Resident Assessment and Care Planning Deficiencies
@@ -278,10 +278,10 @@ F,661,F-0661,"Ensure necessary information is communicated to the resident, and 
 F,675,F-0675,"Honor each resident's preferences, choices, values and beliefs.",Quality of Life and Care Deficiencies
 F,676,F-0676,Ensure residents do not lose the ability to perform activities of daily living unless there is a medical reason.,Quality of Life and Care Deficiencies
 F,677,F-0677,Provide care and assistance to perform activities of daily living for any resident who is unable.,Quality of Life and Care Deficiencies
-F,678,F-0678,"Provide basic life support, including CPR, prior to the arrival of emergency medical personnel , subject to physician orders and the resident’s advance directives.",Quality of Life and Care Deficiencies
+F,678,F-0678,"Provide basic life support, including CPR, prior to the arrival of emergency medical personnel , subject to physician orders and the residentâ€™s advance directives.",Quality of Life and Care Deficiencies
 F,679,F-0679,Provide activities to meet all resident's needs.,Quality of Life and Care Deficiencies
 F,680,F-0680,Ensure the activities program is directed by a qualified professional.,Quality of Life and Care Deficiencies
-F,684,F-0684,"Provide appropriate treatment and care according to orders, resident’s preferences and goals.",Quality of Life and Care Deficiencies
+F,684,F-0684,"Provide appropriate treatment and care according to orders, residentâ€™s preferences and goals.",Quality of Life and Care Deficiencies
 F,685,F-0685,Assist a resident in gaining access to vision and hearing services.,Quality of Life and Care Deficiencies
 F,686,F-0686,Provide appropriate pressure ulcer care and prevent new ulcers from developing.,Quality of Life and Care Deficiencies
 F,687,F-0687,Provide appropriate foot care.,Quality of Life and Care Deficiencies
@@ -320,7 +320,7 @@ F,744,F-0744,Provide the appropriate treatment and services to a resident who di
 F,745,F-0745,Provide medically-related social services to help each resident achieve the highest possible quality of life.,Quality of Life and Care Deficiencies
 F,755,F-0755,Provide pharmaceutical services to meet the needs of each resident and employ or obtain the services of a licensed pharmacist.,Pharmacy Service Deficiencies
 F,756,F-0756,"Ensure a licensed pharmacist perform a monthly drug regimen review, including the medical chart, following irregularity reporting guidelines in developed policies and procedures.",Pharmacy Service Deficiencies
-F,757,F-0757,Ensure each resident’s drug regimen must be free from unnecessary drugs.,Pharmacy Service Deficiencies
+F,757,F-0757,Ensure each residentâ€™s drug regimen must be free from unnecessary drugs.,Pharmacy Service Deficiencies
 F,758,F-0758,"Implement gradual dose reductions(GDR) and non-pharmacological interventions, unless contraindicated, prior to initiating or instead of continuing psychotropic medication; and PRN orders for psychotropic medications are only used when the medication is necessary and PRN use is limited.",Pharmacy Service Deficiencies
 F,759,F-0759,Ensure medication error rates are not 5 percent or greater.,Pharmacy Service Deficiencies
 F,760,F-0760,Ensure that residents are free from significant medication errors.,Pharmacy Service Deficiencies
@@ -346,7 +346,7 @@ F,805,F-0805,Ensure each resident receives and the facility provides food prepar
 F,806,F-0806,"Ensure each resident receives and the facility provides food that accommodates resident allergies, intolerances, and preferences, as well as appealing options.",Nutrition and Dietary Deficiencies
 F,807,F-0807,Ensure each resident receives and the facility provides drinks consistent with resident needs and preferences and sufficient to maintain resident hydration.,Nutrition and Dietary Deficiencies
 F,808,F-0808,"Ensure therapeutic diets are prescribed by the attending physician and may be delegated to a registered or licensed dietitian, to the extent allowed by State law.",Nutrition and Dietary Deficiencies
-F,809,F-0809,"Ensure meals and snacks are served at times in accordance with resident’s needs, preferences, and requests.  Suitable and nourishing alternative meals and snacks must be provided for residents who want to eat at non-traditional times or outside of scheduled meal times.",Nutrition and Dietary Deficiencies
+F,809,F-0809,"Ensure meals and snacks are served at times in accordance with residentâ€™s needs, preferences, and requests.  Suitable and nourishing alternative meals and snacks must be provided for residents who want to eat at non-traditional times or outside of scheduled meal times.",Nutrition and Dietary Deficiencies
 F,810,F-0810,Provide special eating equipment and utensils for residents who need them and appropriate assistance.,Nutrition and Dietary Deficiencies
 F,811,F-0811,"Ensure that residents are assessed for appropriateness for a feeding assistant program, receive services as per their plan of care, and feeding assistants are trained and supervised.",Nutrition and Dietary Deficiencies
 F,812,F-0812,"Procure food from sources approved or considered satisfactory and store, prepare, distribute and serve food in accordance with professional standards.",Nutrition and Dietary Deficiencies
@@ -397,7 +397,7 @@ F,914,F-0914,Provide bedrooms that don't allow residents to see each other when 
 F,915,F-0915,Ensure each resident room has a window to the outside that meets requirements,Environmental Deficiencies
 F,916,F-0916,Ensure each resident has a room at or above ground level.,Environmental Deficiencies
 F,917,F-0917,Make sure each resident has 1) at least one window to the outside in a room; 2) a room at or above ground level; 3) adequate bedding; 4) furniture that meets the resident's needs; or 5) adequate closet space.,Environmental Deficiencies
-F,918,F-0918,Provide a bathroom in or located near each resident’s room.,Environmental Deficiencies
+F,918,F-0918,Provide a bathroom in or located near each residentâ€™s room.,Environmental Deficiencies
 F,919,F-0919,Make sure that a working call system is available in each resident's  bathroom and bathing area.,Environmental Deficiencies
 F,920,F-0920,"Provide at least one room set aside to use as a resident dining room and for activities, that is a good size, with good lighting, air flow and furniture.",Environmental Deficiencies
 F,921,F-0921,"Make sure that the nursing home area is safe, easy to use, clean and comfortable for residents, staff and the public.",Environmental Deficiencies
@@ -559,7 +559,7 @@ K,352,K-0352,Properly install and monitor supervisory attachments on automatic s
 K,353,K-0353,"Inspect, test, and maintain automatic sprinkler systems.",Smoke Deficiencies
 K,354,K-0354,Follow proper procedures when the automatic sprinkler systems was out of service for more than 10 hours.,Smoke Deficiencies
 K,355,K-0355,"Properly select, install, inspect, or maintain portable fire extinguishes.",Smoke Deficiencies
-K,361,K-0361,"Ensure that waiting areas, nurse’s stations, gift shops, and cooking facilities, open to the corridor are properly protected.",Smoke Deficiencies
+K,361,K-0361,"Ensure that waiting areas, nurseâ€™s stations, gift shops, and cooking facilities, open to the corridor are properly protected.",Smoke Deficiencies
 K,362,K-0362,Ensure that corridors are separated from use areas by walls constructed to limit the passage of smoke.,Smoke Deficiencies
 K,363,K-0363,Install corridor and hallway doors that block smoke.,Smoke Deficiencies
 K,364,K-0364,Install properly constructed windows in hallway walls or doors.,Smoke Deficiencies
