@@ -1,2 +1,4 @@
-This folder includes data to estimate community resilience at the county level and the risk of an extreme climate change riverine and coastal
-flooding events at the census track level.  
+This folder includes data to estimate community resilience at the county level and a federal government derived variable of the risk of an 
+extreme climate change events at the county and census track level. Data are from the Department of Homeland Security's Federal Emergency 
+Management Administration Nation Risk Index https://hazards.fema.gov/nri/ and their open data portal Homeland Infrastructure Foundation-Level 
+Data http://hifld-geoplatform.opendata.arcgis.com/.
