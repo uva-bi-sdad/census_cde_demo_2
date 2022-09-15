@@ -1,5 +1,6 @@
 This folder includes data to estimate community resilience index at the county level and a federal government index of the risk of  
 extreme climate change events at the county and census track level. Data are from the Department of Homeland Security's Federal Emergency 
 Management Administration Nation Risk Index https://hazards.fema.gov/nri/ and their open data portal Homeland Infrastructure Foundation-Level 
-Data http://hifld-geoplatform.opendata.arcgis.com/. The Census/ACS demographic data used to construct a population resilience index
+Data http://hifld-geoplatform.opendata.arcgis.com/. Data regarding medical professional shortages are from Health Resources & Services Administration
+Area Resource files https://data.hrsa.gov/topics/health-workforce/ahrf. The Census/ACS demographic data used to construct a population resilience index
 is downloaded directly from the Census API into R using the tidycensus package.  
