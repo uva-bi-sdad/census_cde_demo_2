@@ -1,2 +1,3 @@
 This folder contains data from The Centers for Medicare & Medicaid Services on skilled nursing facilities 
-https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services.
+https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services. 
+The data dictionary and other documentation is in the virginia_skilled_nursing_facility/metadata folder.
