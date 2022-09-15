@@ -1,2 +1,3 @@
 This folder contains data on the owners of the SNFs in Virginia from The Centers for Medicare & Medicaid
 Services https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services. 
+The data dictionary and other documentation is in the virginia_skilled_nursing_facility/metadata folder.
