@@ -2,13 +2,13 @@ This folder includes mapping between cms' skilled nursing facilities to activity
 
 ## Header
 
-**federal\_provider\_number** unique id for skilled nursing facility
-**si\_loc\_id** unique id for activity location
-**distance** distance between skilled nursing facility's geo location and activity location (in meter)
-**rfld\_risks** river flooding risk score
-**rfld\_riskr** river flooding risk rank
-**cfld\_risks** coastal flooding risk score
-**cfld\_riskr** coastal flooding risk rank
+- **federal\_provider\_number** unique id for skilled nursing facility
+- **si\_loc\_id** unique id for activity location
+- **distance** distance between skilled nursing facility's geo location and activity location (in meter)
+- **rfld\_risks** river flooding risk score
+- **rfld\_riskr** river flooding risk rank
+- **cfld\_risks** coastal flooding risk score
+- **cfld\_riskr** coastal flooding risk rank
 
 ## Notes
 
