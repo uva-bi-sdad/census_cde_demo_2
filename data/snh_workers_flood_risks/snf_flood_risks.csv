@@ -1,4 +1,4 @@
-pid,federal_provider_number,snh_tract_rfld_risks,snh_tract_cfld_risks,route_max_rfld_risks,route_max_cfld_risks,route_max_combined_risks
+pid,federal_provider_number,shf_tract_rfld_risks,snf_tract_cfld_risks,route_max_rfld_risks,route_max_cfld_risks,route_max_combined_risks
 361691068,495002,13.3618592974904,,15.8939497837554,0,15.8939497837554
 361692677,495002,13.3618592974904,,15.8939497837554,0,15.8939497837554
 361777372,495002,13.3618592974904,,15.8939497837554,0,15.8939497837554
