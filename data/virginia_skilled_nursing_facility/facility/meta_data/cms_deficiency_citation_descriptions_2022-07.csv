@@ -1,0 +1,641 @@
+Deficiency Prefix,Deficiency Tag Number,Deficiency Prefix and Number,Deficiency Description,Deficiency Category
+E,1,E-0001,Establish an Emergency Preparedness Program (EP).,Emergency Preparedness Deficiencies
+E,4,E-0004,Develop and maintain an Emergency Preparedness Program (EP).,Emergency Preparedness Deficiencies
+E,6,E-0006,Conduct risk assessment and an All-Hazards approach.,Emergency Preparedness Deficiencies
+E,7,E-0007,Address patient/client population and determine types of services needed.,Emergency Preparedness Deficiencies
+E,9,E-0009,Include a process for Emergency Preparedness collaboration.,Emergency Preparedness Deficiencies
+E,13,E-0013,Develop Emergency Preparedness policies and procedures.,Emergency Preparedness Deficiencies
+E,15,E-0015,Address subsistence needs for staff and patients.,Emergency Preparedness Deficiencies
+E,18,E-0018,Establish procedures for tracking staff and patients during an emergency.,Emergency Preparedness Deficiencies
+E,20,E-0020,Establish policies and procedures including evacuation.,Emergency Preparedness Deficiencies
+E,22,E-0022,Establish policies and procedures for sheltering.,Emergency Preparedness Deficiencies
+E,23,E-0023,Establish policies and procedures for medical documentation.,Emergency Preparedness Deficiencies
+E,24,E-0024,Establish policies and procedures for volunteers.,Emergency Preparedness Deficiencies
+E,25,E-0025,Create arrangements with other facilities to receive patients.,Emergency Preparedness Deficiencies
+E,26,E-0026,Establish roles under a Waiver declared by secretary.,Emergency Preparedness Deficiencies
+E,29,E-0029,Develop a communication plan.,Emergency Preparedness Deficiencies
+E,30,E-0030,List the names and contact information of those in the facility.,Emergency Preparedness Deficiencies
+E,31,E-0031,Provide emergency officials' contact information.,Emergency Preparedness Deficiencies
+E,32,E-0032,Provide primary/alternate means for communication.,Emergency Preparedness Deficiencies
+E,33,E-0033,Establish methods for sharing information.,Emergency Preparedness Deficiencies
+E,34,E-0034,Provide a means of sharing information on occupancy/needs.,Emergency Preparedness Deficiencies
+E,35,E-0035,Provide family notifications of emergency plan.,Emergency Preparedness Deficiencies
+E,36,E-0036,Establish emergency prep training and testing.,Emergency Preparedness Deficiencies
+E,37,E-0037,Establish staff and initial training requirements.,Emergency Preparedness Deficiencies
+E,39,E-0039,Conduct testing and exercise requirements.,Emergency Preparedness Deficiencies
+E,41,E-0041,Implement emergency and standby power systems.,Emergency Preparedness Deficiencies
+E,42,E-0042,Meet the requirements of an integrated health system.,Emergency Preparedness Deficiencies
+F,150,F-0150,Meet the legal definition of a skilled nursing facility or nursing facility.,Administration Deficiencies
+F,151,F-0151,"Honor a residents' rights as a residents of the nursing home, free of coercion and reprisal, and as citizens or residents of the United States.",Resident Rights Deficiencies
+F,152,F-0152,Give the resident's representative the ability to exercise the resident's rights.,Resident Rights Deficiencies
+F,153,F-0153,Let each resident or the resident's legal representative access or purchase copies of all the resident's records.,Resident Rights Deficiencies
+F,154,F-0154,"Ensure that residents are fully informed and understand their health status, care and treatments.",Resident Rights Deficiencies
+F,155,F-0155,"Let residents refuse treatment, refuse to take part in an experiment, or formulate advance directives.",Resident Rights Deficiencies
+F,156,F-0156,"Give residents a notice of rights, rules, services and charges.",Resident Rights Deficiencies
+F,157,F-0157,"Immediately tell the resident, the resident's doctor, and a family member of situations (injury/decline/room, etc.)  that affect the resident.",Resident Rights Deficiencies
+F,158,F-0158,Let residents choose whether to manage their own money or deposit it with the nursing home.,Resident Rights Deficiencies
+F,159,F-0159,"Properly hold, secure, and manage each resident's personal money which is deposited with the nursing home.",Resident Rights Deficiencies
+F,160,F-0160,"Upon the death of a resident, convey the resident’s personal funds and an accounting of those funds to the appropriate party.",Resident Rights Deficiencies
+F,161,F-0161,Provide proof that residents' personal money that is deposited with the nursing home is secure.,Resident Rights Deficiencies
+F,162,F-0162,Limit the charges against residents' personal funds for items or services for which payment is made under Medicare or Medicaid.,Resident Rights Deficiencies
+F,163,F-0163,Let residents choose a personal doctor.,Resident Rights Deficiencies
+F,164,F-0164,Keep  residents' personal and medical records private and confidential.,Resident Rights Deficiencies
+F,165,F-0165,Let residents voice a complaint or grievance without being treated differently or badly.,Resident Rights Deficiencies
+F,166,F-0166,Try to resolve each resident's complaints quickly.,Resident Rights Deficiencies
+F,167,F-0167,Allow residents to easily view the results of the nursing home's most recent inspection.,Resident Rights Deficiencies
+F,168,F-0168,Let residents talk to and get information from agencies acting on their behalf.,Resident Rights Deficiencies
+F,169,F-0169,"1) Protect residents from being forced to work at the nursing home, or 2) let residents work if they want to.",Resident Rights Deficiencies
+F,170,F-0170,Send unopened mail from residents and promptly deliver unopened mail to residents.,Resident Rights Deficiencies
+F,171,F-0171,"Let residents use stationery, postage, and writing materials at the residents' own expense.",Resident Rights Deficiencies
+F,172,F-0172,Allow residents to have visitors.,Resident Rights Deficiencies
+F,173,F-0173,"Let a representative of the State Ombudsman look at a resident's records, if the resident agreed.",Resident Rights Deficiencies
+F,174,F-0174,Provide residents with private access to a telephone.,Resident Rights Deficiencies
+F,175,F-0175,Allow married couples living in the same facility to share a room.,Resident Rights Deficiencies
+F,176,F-0176,Allow residents to self-administer drugs if determined safe.,Resident Rights Deficiencies
+F,177,F-0177,Protect a residents' right to refuse some types of non-requested transfers within the nursing home.,Resident Rights Deficiencies
+F,201,F-0201,Permit residents to remain in the facility and not be transferred or discharged without adequate reason.,Resident Rights Deficiencies
+F,202,F-0202,Provide written records when a resident is transferred or discharged.,Resident Rights Deficiencies
+F,203,F-0203,Provide timely notification to the resident before transfer or discharge.,Resident Rights Deficiencies
+F,204,F-0204,Help and prepare each resident for a safe and easy discharge or transfer from the nursing home.,Resident Rights Deficiencies
+F,205,F-0205,Tell the resident or the resident’s representative in writing how long the nursing home will hold the resident’s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
+F,206,F-0206,Establish and follow a written policy that permits a resident to return to the nursing home after hospitalization or therapeutic leave that exceeds bed-hold policy.,Resident Rights Deficiencies
+F,207,F-0207,"Use identical practices regarding transfer, discharge, and services for all residents, regardless of payment source",Resident Rights Deficiencies
+F,208,F-0208,1) Protect current or future residents from giving up their Medicaid or Medicare benefits; or 2) follow federal rules for admissions.,Resident Rights Deficiencies
+F,221,F-0221,"Keep each resident free from physical restraints, unless needed for medical treatment.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,222,F-0222,"Keep each resident free from drugs that restrain them, unless needed for medical treatment.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,223,F-0223,"Protect each resident from all abuse, physical punishment, and involuntary separation from others.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,224,F-0224,"Protect each resident from mistreatment, neglect and misappropriation of personal property.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,225,F-0225,"1) Hire only people with no legal history of abusing, neglecting or mistreating residents; or 2) report and investigate any acts or reports of abuse, neglect or mistreatment of residents.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,226,F-0226,"Develop and implement policies for 1) screening and training employees; and the 2) prevention, identification, investigation, and reporting of any abuse, neglect, mistreatment and misappropriation of property.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,240,F-0240,Provide care for each resident in a way that maintains or improves their quality of life.,Resident Rights Deficiencies
+F,241,F-0241,Provide care for residents in a way that maintains or improves their dignity and respect in full recognition of their individuality.,Resident Rights Deficiencies
+F,242,F-0242,"Ensure residents have the right to have a choice over activities, their schedules, and health care according to their interests, assessments, and plans of care.",Resident Rights Deficiencies
+F,243,F-0243,Provide resident groups or resident family groups with private space to meet.,Resident Rights Deficiencies
+F,244,F-0244,Listen to the resident groups and act on their complaints and suggestions that affect resident care and life.,Resident Rights Deficiencies
+F,245,F-0245,"Ensure that each resident has the right to join in social, religious, and community activities.",Resident Rights Deficiencies
+F,246,F-0246,Reasonably accommodate the needs and preferences of each resident.,Resident Rights Deficiencies
+F,247,F-0247,Give notice to the resident before a room or roommate change.,Resident Rights Deficiencies
+F,248,F-0248,Provide activities to meet the interests and needs of each resident.,Quality of Life and Care Deficiencies
+F,249,F-0249,Ensure the activities program is directed by a qualified professional.,Administration Deficiencies
+F,250,F-0250,Provide medically-related social services to help each resident achieve the highest possible quality of life.,Quality of Life and Care Deficiencies
+F,251,F-0251,Hire a qualified full-time social worker in a facility with more than 120 beds.,Administration Deficiencies
+F,252,F-0252,"Provide a safe, clean, comfortable and home-like environment; and allow residents to use personal belongings to the extent possible.",Environmental Deficiencies
+F,253,F-0253,Provide housekeeping and maintenance services.,Environmental Deficiencies
+F,254,F-0254,Provide clean bed and bath linens that are in good condition.,Environmental Deficiencies
+F,256,F-0256,Provide adequate and comfortable lighting levels in all areas.,Environmental Deficiencies
+F,257,F-0257,Maintain comfortable and safe temperature levels.,Environmental Deficiencies
+F,258,F-0258,Maintain comfortable sound levels.,Environmental Deficiencies
+F,271,F-0271,Provide doctor's orders for the resident's immediate care at the time the resident was admitted.,Resident Assessment and Care Planning Deficiencies
+F,272,F-0272,Conduct initial and periodic assessments of each resident's functional capacity.,Resident Assessment and Care Planning Deficiencies
+F,273,F-0273,Assess in a timely manner the resident when the resident enters the nursing home.,Resident Assessment and Care Planning Deficiencies
+F,274,F-0274,Review or revise the resident's care plan after any major change in physical or mental health.,Resident Assessment and Care Planning Deficiencies
+F,275,F-0275,Completely assess the resident at least every twelve months.,Resident Assessment and Care Planning Deficiencies
+F,276,F-0276,Assure that each resident’s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
+F,278,F-0278,Ensure each resident receives an accurate assessment by a qualified health professional.,Resident Assessment and Care Planning Deficiencies
+F,279,F-0279,"Develop a complete care plan that meets all the resident's needs, with timetables and actions that can be measured.",Resident Assessment and Care Planning Deficiencies
+F,280,F-0280,Allow residents the right to participate in the planning or revision of care and treatment.,Resident Assessment and Care Planning Deficiencies
+F,281,F-0281,Ensure services provided by the nursing facility meet professional standards of quality.,Quality of Life and Care Deficiencies
+F,282,F-0282,Provide care by qualified persons according to each resident's written plan of care.,Quality of Life and Care Deficiencies
+F,283,F-0283,"Provide proper discharge planning and communication, of the resident's health status and summary of the resident's nursing home stay.",Resident Assessment and Care Planning Deficiencies
+F,284,F-0284,Develop a post-discharge plan with the resident and family for the resident's care after leaving the nursing home.,Resident Assessment and Care Planning Deficiencies
+F,285,F-0285,Coordinate assessments with the pre-admission screening and resident review program for mentally-ill and mentally-retarded patients.,Resident Assessment and Care Planning Deficiencies
+F,286,F-0286,Maintain 15 months of resident assessments in the resident's active clinical record.,Resident Assessment and Care Planning Deficiencies
+F,287,F-0287,Encode each resident’s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
+F,309,F-0309,Provide necessary care and services to maintain or improve the highest well being of each resident .,Quality of Life and Care Deficiencies
+F,310,F-0310,"Make sure that each residents' abilities in activities of daily living do not decline, unless unavoidable.",Quality of Life and Care Deficiencies
+F,311,F-0311,Make sure that residents receive treatments/services to maintain or improve their ability to care for themselves.,Quality of Life and Care Deficiencies
+F,312,F-0312,"Assist those residents who need help with eating/drinking, grooming and personal and oral hygiene.",Quality of Life and Care Deficiencies
+F,313,F-0313,Ensure that residents receive proper treatment and assistive devices to maintain their vision and hearing.,Quality of Life and Care Deficiencies
+F,314,F-0314,Give residents proper treatment to prevent new bed (pressure) sores or heal existing bed sores.,Quality of Life and Care Deficiencies
+F,315,F-0315,"Ensure that each resident who enters the nursing home without a catheter is not given a catheter, unless medically necessary, and that incontinent patients receive proper services to prevent urinary tract infections and restore normal bladder functions.",Quality of Life and Care Deficiencies
+F,317,F-0317,"Prevent a loss in range of motion among residents who entered the nursing home with a full range of motion, unless it is unavoidable due to resident’s clinical condition.",Quality of Life and Care Deficiencies
+F,318,F-0318,Ensure that residents with limited range of motion receive appropriate treatment and services to increase range of motion or prevent further decrease in range of motion.,Quality of Life and Care Deficiencies
+F,319,F-0319,Give the right treatment and services to residents who display physical or psychosocial problems adapting to changes in circumstances.,Quality of Life and Care Deficiencies
+F,320,F-0320,Evaluate a resident’s decrease in social interaction or increase in depressive behaviors and determine if the behavioral changes were avoidable if these problems did not exist before.,Quality of Life and Care Deficiencies
+F,322,F-0322,"Give proper treatment to residents with feeding tubes to prevent problems (such as aspiration pneumonia, diarrhea, vomiting, dehydration, metabolic abnormalities, nasal-pharyngeal ulcers) and help restore eating skills, if possible.",Quality of Life and Care Deficiencies
+F,323,F-0323,Ensure that a nursing home area is free from accident hazards and provide adequate supervision to prevent avoidable accidents.,Environmental Deficiencies
+F,325,F-0325,Ensure residents maintain acceptable nutritional status.,Quality of Life and Care Deficiencies
+F,327,F-0327,Give each resident enough fluids to keep them healthy and prevent dehydration.,Quality of Life and Care Deficiencies
+F,328,F-0328,"Properly care for residents needing special services, including: injections, colostomy, ureostomy, ileostomy, tracheostomy care, tracheal suctioning, respiratory care, foot care, and prostheses.",Quality of Life and Care Deficiencies
+F,329,F-0329,Ensure that each resident's 1) entire drug/medication regimen is free from unnecessary drugs; and 2) is managed and monitored to achieve highest level of well-being.,Pharmacy Service Deficiencies
+F,332,F-0332,"Keep the rate of medication errors (wrong drug, wrong dose, wrong time) to less than 5%.",Pharmacy Service Deficiencies
+F,333,F-0333,Ensure that residents are safe from serious medication errors.,Pharmacy Service Deficiencies
+F,334,F-0334,Develop policies and procedures for influenza and pneumococcal immunizations.,Quality of Life and Care Deficiencies
+F,353,F-0353,Have enough nurses to care for every resident in a way that maximizes the resident's well being.,Nursing and Physician Services Deficiencies
+F,354,F-0354,"Use a registered nurse at least 8 hours a day, 7 days a week.",Nursing and Physician Services Deficiencies
+F,355,F-0355,Request a waiver if it can't meet the nurse staffing requirements,Nursing and Physician Services Deficiencies
+F,356,F-0356,Post nurse staffing information/data on a daily basis.,Nursing and Physician Services Deficiencies
+F,360,F-0360,Provide a tasty and well-balanced diet that meets the nutritional needs of each resident.,Nutrition and Dietary Deficiencies
+F,361,F-0361,Hire a qualified dietician.,Nutrition and Dietary Deficiencies
+F,362,F-0362,Hire sufficient dietary support personnel.,Nutrition and Dietary Deficiencies
+F,363,F-0363,Make sure menus meet the resident's nutritional needs and that there is a prepared menu by which nutritious meals have been planned for the resident and followed.,Nutrition and Dietary Deficiencies
+F,364,F-0364,"Prepare food that is nutritional, appetizing, tasty, attractive, well-cooked, and at the right temperature.",Nutrition and Dietary Deficiencies
+F,365,F-0365,Provide food in a way that meets a resident's needs.,Nutrition and Dietary Deficiencies
+F,366,F-0366,Offer other nutritional food to each resident who will not eat the food served.,Nutrition and Dietary Deficiencies
+F,367,F-0367,Make sure that special or therapeutic diets are ordered by the attending doctor.,Nutrition and Dietary Deficiencies
+F,368,F-0368,1) Provide 3 meals at regular times; 2) serve breakfast within 14 hours of dinner; and 3) offer a snack at bedtime each day.,Nutrition and Dietary Deficiencies
+F,369,F-0369,Provide special eating equipment and utensils for each resident who needs them.,Nutrition and Dietary Deficiencies
+F,371,F-0371,"Store, cook, and serve food in a safe and clean way.",Nutrition and Dietary Deficiencies
+F,372,F-0372,Dispose of garbage and refuse properly.,Environmental Deficiencies
+F,373,F-0373,Make sure that paid feeding assistants 1) completed training; 2) work under the supervision of a RN or LPN; and 3) feed only residents who have no complicated feeding problems.,Nutrition and Dietary Deficiencies
+F,385,F-0385,Make sure that a doctor approves a resident's admission in writing and that each resident remains under the care of a doctor.,Nursing and Physician Services Deficiencies
+F,386,F-0386,Make sure that doctors see a resident's plan of care at every visit and make notes about progress and orders in writing.,Nursing and Physician Services Deficiencies
+F,387,F-0387,"Make sure that doctors visit residents regularly, as required.",Nursing and Physician Services Deficiencies
+F,388,F-0388,Make sure that all required doctor visits are made personally.,Nursing and Physician Services Deficiencies
+F,389,F-0389,Give or get emergency care by a doctor 24 hours a day.,Nursing and Physician Services Deficiencies
+F,390,F-0390,"Make sure the physician properly assigns tasks that can be delegated or satisfied by a physician assistant, nurse practitioner or clinical nurse specialist .",Nursing and Physician Services Deficiencies
+F,406,F-0406,Give or get specialized rehabilitative services per the patient's assessment or plan of care.,Quality of Life and Care Deficiencies
+F,407,F-0407,"Give specialized rehabilitative services that are medically necessary by qualified personnel, when ordered by a doctor.",Quality of Life and Care Deficiencies
+F,411,F-0411,Provide routine and 24-hour emergency dental care for each resident.,Quality of Life and Care Deficiencies
+F,412,F-0412,Provide or obtain dental services for each resident.,Quality of Life and Care Deficiencies
+F,425,F-0425,Provide routine and emergency drugs through a licensed pharmacist and only under the general supervision of a licensed nurse.,Pharmacy Service Deficiencies
+F,428,F-0428,"At least once a month, have a licensed pharmacist review each resident's medication(s) and report any irregularities to the attending doctor.",Pharmacy Service Deficiencies
+F,431,F-0431,Maintain drug records and properly mark/label drugs and other similar products according to accepted professional standards.,Pharmacy Service Deficiencies
+F,441,F-0441,"Have a program that investigates, controls and keeps infection from spreading.",Environmental Deficiencies
+F,454,F-0454,"Be designed, built, equipped, or well kept to protect the health and safety of residents, workers, and the public.",Environmental Deficiencies
+F,455,F-0455,"Provide enough power supply for lighting all entrances and exits; equipment for fire detection and alarm systems, and extinguishers.",Environmental Deficiencies
+F,456,F-0456,Keep all essential equipment working safely.,Environmental Deficiencies
+F,457,F-0457,Provide bedrooms that hold no more than 4 residents per room.,Environmental Deficiencies
+F,458,F-0458,Provide rooms that are at least 80 square feet per resident in multiple rooms and 100 square feet for single resident rooms.,Environmental Deficiencies
+F,459,F-0459,Provide bedrooms that have direct access to an exit hallway.,Environmental Deficiencies
+F,460,F-0460,Provide bedrooms that don't allow residents to see each other when privacy is needed.,Environmental Deficiencies
+F,461,F-0461,Make sure each resident has 1) at least one window to the outside in a room; 2) a room at or above ground level; 3) adequate bedding; 4) furniture that meets the resident's needs; or 5) adequate closet space.,Environmental Deficiencies
+F,462,F-0462,Provide a bathroom in or located near each resident’s room.,Environmental Deficiencies
+F,463,F-0463,Make sure that a working call system is available in each resident's room or bathroom and bathing area.,Environmental Deficiencies
+F,464,F-0464,"Provide at least one room set aside to use as a resident dining room and for activities, that is a good size, with good lighting, air flow and furniture.",Environmental Deficiencies
+F,465,F-0465,"Make sure that the nursing home area is safe, easy to use, clean and comfortable for residents, staff and the public.",Environmental Deficiencies
+F,466,F-0466,Have enough backup water supply for essential areas of the nursing home.,Environmental Deficiencies
+F,467,F-0467,"Have enough outside ventilation via a window or mechanical ventilation, or both.",Environmental Deficiencies
+F,468,F-0468,Put firmly secured handrails on each side of hallways.,Environmental Deficiencies
+F,469,F-0469,"Make sure there is a pest control program to prevent/deal with mice, insects, or other pests.",Environmental Deficiencies
+F,490,F-0490,Make sure that the facility is administered in an acceptable way that maintains the well-being of each resident .,Administration Deficiencies
+F,491,F-0491,Be licensed under State and local laws.,Administration Deficiencies
+F,492,F-0492,"Operate and  provide services according to Federal, State, and local laws and professional standards.",Administration Deficiencies
+F,493,F-0493,Establish a governing body that is legally responsible for establishing and implementing policies for managing and operating the facility and appoints a properly licensed administrator responsible for managing the facility,Administration Deficiencies
+F,494,F-0494,"Ensure that all full-time nurse aides employed for more than 4 months are fully trained and competent to provide nursing and nursing-related services, as defined by Federal requirements.",Nursing and Physician Services Deficiencies
+F,495,F-0495,Ensure that all nurse aides who have worked less than 4 months are enrolled in appropriate training or have been deemed competent to provide nursing and nursing related services.,Nursing and Physician Services Deficiencies
+F,496,F-0496,1) Receive registry verification that a nurse aide has met the required training and skills that the State requires; and 2) ensure nurse aides receive the required retraining after 24 months if nursing related services were not provided for monetary compensation.,Nursing and Physician Services Deficiencies
+F,497,F-0497,1) Review the work of each nurse aide every year; and 2) give regular in-service training based upon these reviews.,Nursing and Physician Services Deficiencies
+F,498,F-0498,Make sure that nurse aides show they have the skills and techniques to be able to care for residents' needs.,Nursing and Physician Services Deficiencies
+F,499,F-0499,"Employ staff that are licensed, certified, or registered in accordance with state laws.",Administration Deficiencies
+F,500,F-0500,Employ or obtain outside professional resources to provide services in the nursing home when the facility does not employ a qualified professional to furnish a required service.,Administration Deficiencies
+F,501,F-0501,Choose a doctor to serve as the medical director to create resident care policies and coordinate medical care in the facility.,Nursing and Physician Services Deficiencies
+F,502,F-0502,Give or get quality laboratory services/tests in a timely manner to meet the needs of residents.,Administration Deficiencies
+F,503,F-0503,"Ensure laboratory services, blood blanks and transfusion services provided on site meet requirements for certified laboratories; or have an agreement to obtain services from an offsite laboratory, that meets the same requirements.",Administration Deficiencies
+F,504,F-0504,Provide or obtain laboratory services only when ordered by the attending physician.,Administration Deficiencies
+F,505,F-0505,Quickly tell the resident's doctor the results of laboratory tests.,Administration Deficiencies
+F,506,F-0506,Help the resident with transportation to and from laboratory services outside of the facility.,Administration Deficiencies
+F,507,F-0507,"Keep complete, dated laboratory records in the resident's file.",Administration Deficiencies
+F,508,F-0508,Give or get x-rays and other tests in a timely manner to meet the needs of residents.,Administration Deficiencies
+F,509,F-0509,1) Give or get tests or x-rays that meet hospital requirements; or 2) to obtain an agreement for these services from an approved provider or supplier.,Administration Deficiencies
+F,510,F-0510,Give or get x-rays or tests only when they are ordered by the attending physician.,Administration Deficiencies
+F,511,F-0511,"Tell the attending physician the results of x-rays and other tests, in a timely manner.",Administration Deficiencies
+F,512,F-0512,Help the resident in making transportation arrangements to and from radiology services.,Administration Deficiencies
+F,513,F-0513,Keep signed and dated reports of x-rays and other diagnostic services.,Administration Deficiencies
+F,514,F-0514,"Keep accurate, complete and organized clinical records on each resident that meet professional standards.",Administration Deficiencies
+F,515,F-0515,Keep clinical records for an appropriate amount of time.,Administration Deficiencies
+F,516,F-0516,Keep clinical record information safe.,Administration Deficiencies
+F,517,F-0517,"Have a detailed, written plan for disasters and emergencies, such as fire, severe weather, and missing residents.",Administration Deficiencies
+F,518,F-0518,"Train all employees on what to do in an emergency, and carry out unannounced staff drills.",Administration Deficiencies
+F,519,F-0519,Have an agreement with at least one or more hospitals certified by Medicare or Medicaid to make sure residents can be moved quickly to the hospital when they need medical care.,Administration Deficiencies
+F,520,F-0520,"Set up an ongoing quality assessment and assurance group to review quality deficiencies quarterly, and develop corrective plans of action.",Administration Deficiencies
+F,522,F-0522,Follow rules about disclosure of ownership requirements and tell the state agency about changes in ownership and/or administrative personnel.,Administration Deficiencies
+F,523,F-0523,"Submit a timely, acceptable plan for facility closure, including notification of the appropriate entities and ensuring residents are transferred in a safe and orderly manner.",Administration Deficiencies
+F,524,F-0524,Have policies and procedures ensuring the administrator's responsibilities for facility closure are completed successfully.,Administration Deficiencies
+F,526,F-0526,Arrange for the provision of hospice services or assist the resident in transferring to a facility that will arrange for the provision of hospice services.,Administration Deficiencies
+F,527,F-0527,"Electronically submit to CMS complete and accurate direct care staffing information, based on payroll and other verifiable and auditable data.",Administration Deficiencies
+F,540,F-0540,Meet the legal definition of a skilled nursing facility or nursing facility.,Administration Deficiencies
+F,550,F-0550,"Honor the resident's right to a dignified existence, self-determination, communication, and to exercise his or her rights.",Resident Rights Deficiencies
+F,551,F-0551,Give the resident's representative the ability to exercise the resident's rights.,Resident Rights Deficiencies
+F,552,F-0552,"Ensure that residents are fully informed and understand their health status, care and treatments.",Resident Rights Deficiencies
+F,553,F-0553,Allow resident to participate in the development and implementation of his or her person-centered plan of care.,Resident Rights Deficiencies
+F,554,F-0554,Allow residents to self-administer drugs if determined clinically appropriate.,Resident Rights Deficiencies
+F,555,F-0555,Honor the resident's right to choose his or her attending physician.,Resident Rights Deficiencies
+F,557,F-0557,Honor the resident's right to be treated with respect and dignity and to retain and use personal possessions.,Resident Rights Deficiencies
+F,558,F-0558,Reasonably accommodate the needs and preferences of each resident.,Resident Rights Deficiencies
+F,559,F-0559,Honor the resident's right to share a room with spouse or roommate of choice and receive written notice before a change is made.,Resident Rights Deficiencies
+F,560,F-0560,Protect a residents' right to refuse some types of non-requested transfers within the nursing home.,Resident Rights Deficiencies
+F,561,F-0561,Honor the resident's right to and the facility must promote and facilitate resident self-determination through support of resident choice.,Resident Rights Deficiencies
+F,562,F-0562,Provide immediate access to any resident.,Resident Rights Deficiencies
+F,563,F-0563,"Honor the resident's right to receive visitors of his or her choosing, at the time of his or her choosing.",Resident Rights Deficiencies
+F,564,F-0564,Inform each resident of his or her visitation rights and ensure that all visitors enjoy equal visitation privileges.,Resident Rights Deficiencies
+F,565,F-0565,Honor the resident's right to organize and participate in resident/family groups in the facility.,Resident Rights Deficiencies
+F,566,F-0566,"1) Protect residents from being forced to work at the nursing home, or 2) let residents work if they want to.",Resident Rights Deficiencies
+F,567,F-0567,Honor the resident's right to manage his or her financial affairs.,Resident Rights Deficiencies
+F,568,F-0568,"Properly hold, secure, and manage each resident's personal money which is deposited with the nursing home.",Resident Rights Deficiencies
+F,569,F-0569,"Notify each resident of certain balances and convey resident funds upon discharge, eviction, or death.",Resident Rights Deficiencies
+F,570,F-0570,Assure the security of all personal funds of residents deposited with the facility.,Resident Rights Deficiencies
+F,571,F-0571,Limit the charges against residents' personal funds for items or services for which payment is made under Medicare or Medicaid.,Resident Rights Deficiencies
+F,572,F-0572,"Give residents a notice of rights, rules, services and charges.",Resident Rights Deficiencies
+F,573,F-0573,Let each resident or the resident's legal representative access or purchase copies of all the resident's records.,Resident Rights Deficiencies
+F,574,F-0574,The resident has the right to receive notices in a format and a language he or she understands.,Resident Rights Deficiencies
+F,575,F-0575,"Post a list of names, addresses, and telephone numbers of all pertinent State agencies and advocacy groups and a statement that the resident may file a complaint with the State Survey Agency.",Resident Rights Deficiencies
+F,576,F-0576,Ensure residents have reasonable access to and privacy in their use of communication methods.,Resident Rights Deficiencies
+F,577,F-0577,Allow residents to easily view the nursing home's survey results and communicate with advocate agencies.,Resident Rights Deficiencies
+F,578,F-0578,"Honor the resident's right to request, refuse, and/or discontinue treatment, to participate in or refuse to participate in experimental research, and to formulate an advance directive.",Resident Rights Deficiencies
+F,579,F-0579,Provide information about how to apply for and use Medicare and Medicaid benefits.,Resident Rights Deficiencies
+F,580,F-0580,"Immediately tell the resident, the resident's doctor, and a family member of situations (injury/decline/room, etc.)  that affect the resident.",Resident Rights Deficiencies
+F,582,F-0582,Give residents notice of Medicaid/Medicare coverage and potential liability for services not covered.,Resident Rights Deficiencies
+F,583,F-0583,Keep residents' personal and medical records private and confidential.,Resident Rights Deficiencies
+F,584,F-0584,"Honor the resident's right to a safe, clean, comfortable and homelike environment, including but not limited to receiving treatment and supports for daily living safely.",Resident Rights Deficiencies
+F,585,F-0585,Honor the resident's right to voice grievances without discrimination or reprisal and the facility must establish a grievance policy and make prompt efforts to resolve grievances.,Resident Rights Deficiencies
+F,586,F-0586,"Not prohibit or in any way discourage a resident from communicating with federal, state, or local officials.",Resident Rights Deficiencies
+F,600,F-0600,"Protect each resident from all types of abuse such as physical, mental, sexual abuse, physical punishment, and neglect by anybody.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,602,F-0602,Protect each resident from the wrongful use of the resident's belongings or money.,"Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,603,F-0603,"Protect each resident from separation (from other residents, his/her room, or confinement to his/her room).","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,604,F-0604,"Ensure that each resident is free from the use of physical restraints, unless needed for medical treatment.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,605,F-0605,"Ensure that each resident is free from medications that restrain them, unless needed for medical treatment.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,606,F-0606,"Not hire anyone with a finding of abuse, neglect, exploitation, or theft.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,607,F-0607,"Develop and implement policies and procedures to prevent abuse, neglect, and theft.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,608,F-0608,"Develop and implement policies and procedures to ensure (1) employees report any suspicion of a crime against any resident, according to timelines; (2) post the notice of employee rights; and (3) prohibit and prevent retaliation for reporting.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,609,F-0609,"Timely report suspected abuse, neglect, or theft and report the results of the investigation to proper authorities.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,610,F-0610,Respond appropriately to all alleged violations.,"Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,620,F-0620,"Not require residents to give up Medicare or Medicaid benefits, or pay privately as a condition of admission; and must tell residents what care they do not provide.",Resident Rights Deficiencies
+F,621,F-0621,"Treat residents equally regarding transfer, discharge, and provision of services for all residents, regardless of payment source",Resident Rights Deficiencies
+F,622,F-0622,Not transfer or discharge a resident without an adequate reason; and must provide documentation and convey specific information  when a resident is transferred or discharged.,Resident Rights Deficiencies
+F,623,F-0623,"Provide timely notification to the resident, and if applicable to the resident representative and ombudsman, before transfer or discharge, including appeal rights.",Resident Rights Deficiencies
+F,624,F-0624,Prepare residents for a safe transfer or discharge from the nursing home.,Resident Rights Deficiencies
+F,625,F-0625,Notify the resident or the resident’s representative in writing how long the nursing home will hold the resident’s bed in cases of transfer to a hospital or therapeutic leave.,Resident Rights Deficiencies
+F,626,F-0626,Permit a resident to return to the nursing home after hospitalization or therapeutic leave that exceeds bed-hold policy.,Resident Rights Deficiencies
+F,635,F-0635,Provide doctor's orders for the resident's immediate care at the time the resident was admitted.,Resident Assessment and Care Planning Deficiencies
+F,636,F-0636,"Assess the resident completely in a timely manner  when first admitted, and then periodically, at least every 12 months.",Resident Assessment and Care Planning Deficiencies
+F,637,F-0637,Assess the resident when there is a significant change in condition,Resident Assessment and Care Planning Deficiencies
+F,638,F-0638,Assure that each resident’s assessment is updated at least once every 3 months.,Resident Assessment and Care Planning Deficiencies
+F,639,F-0639,Maintain 15 months of resident assessments in the resident's active clinical record.,Resident Assessment and Care Planning Deficiencies
+F,640,F-0640,Encode each resident’s assessment data and transmit these data to the State within 7 days of assessment.,Resident Assessment and Care Planning Deficiencies
+F,641,F-0641,Ensure each resident receives an accurate assessment.,Resident Assessment and Care Planning Deficiencies
+F,642,F-0642,Ensure a qualified health professional conducts resident assessments.,Resident Assessment and Care Planning Deficiencies
+F,644,F-0644,Coordinate assessments with the pre-admission screening and resident review program; and referring for services as needed.,Resident Assessment and Care Planning Deficiencies
+F,645,F-0645,PASARR screening for Mental disorders or Intellectual Disabilities,Resident Assessment and Care Planning Deficiencies
+F,646,F-0646,Notify the appropriate authorities when residents with MD or ID services has a significant change in condition.,Resident Assessment and Care Planning Deficiencies
+F,655,F-0655,Create and put into place a plan for meeting the resident's most immediate needs within 48 hours of being admitted,Resident Assessment and Care Planning Deficiencies
+F,656,F-0656,"Develop and implement a complete care plan that meets all the resident's needs, with timetables and actions that can be measured.",Resident Assessment and Care Planning Deficiencies
+F,657,F-0657,"Develop the complete care plan within 7 days of the comprehensive assessment; and prepared, reviewed, and revised by a team of health professionals.",Resident Assessment and Care Planning Deficiencies
+F,658,F-0658,Ensure services provided by the nursing facility meet professional standards of quality.,Resident Assessment and Care Planning Deficiencies
+F,659,F-0659,Provide care by qualified persons according to each resident's written plan of care.,Resident Assessment and Care Planning Deficiencies
+F,660,F-0660,Plan the resident's discharge to meet the resident's goals and needs.,Resident Assessment and Care Planning Deficiencies
+F,661,F-0661,"Ensure necessary information is communicated to the resident, and receiving health care provider at the time of a planned discharge.",Resident Assessment and Care Planning Deficiencies
+F,675,F-0675,"Honor each resident's preferences, choices, values and beliefs.",Quality of Life and Care Deficiencies
+F,676,F-0676,Ensure residents do not lose the ability to perform activities of daily living unless there is a medical reason.,Quality of Life and Care Deficiencies
+F,677,F-0677,Provide care and assistance to perform activities of daily living for any resident who is unable.,Quality of Life and Care Deficiencies
+F,678,F-0678,"Provide basic life support, including CPR, prior to the arrival of emergency medical personnel , subject to physician orders and the resident’s advance directives.",Quality of Life and Care Deficiencies
+F,679,F-0679,Provide activities to meet all resident's needs.,Quality of Life and Care Deficiencies
+F,680,F-0680,Ensure the activities program is directed by a qualified professional.,Quality of Life and Care Deficiencies
+F,684,F-0684,"Provide appropriate treatment and care according to orders, resident’s preferences and goals.",Quality of Life and Care Deficiencies
+F,685,F-0685,Assist a resident in gaining access to vision and hearing services.,Quality of Life and Care Deficiencies
+F,686,F-0686,Provide appropriate pressure ulcer care and prevent new ulcers from developing.,Quality of Life and Care Deficiencies
+F,687,F-0687,Provide appropriate foot care.,Quality of Life and Care Deficiencies
+F,688,F-0688,"Provide appropriate care for a resident to maintain and/or improve range of motion (ROM), limited ROM and/or mobility, unless a decline is for a medical reason.",Quality of Life and Care Deficiencies
+F,689,F-0689,Ensure that a nursing home area is free from accident hazards and provides adequate supervision to prevent accidents.,Quality of Life and Care Deficiencies
+F,690,F-0690,"Provide appropriate care for residents who are continent or incontinent of bowel/bladder, appropriate catheter care,  and appropriate care  to prevent urinary tract infections.",Quality of Life and Care Deficiencies
+F,691,F-0691,"Provide appropriate colostomy, urostomy, or ileostomy care/services for a resident who requires such services.",Quality of Life and Care Deficiencies
+F,692,F-0692,Provide enough food/fluids to maintain a resident's health.,Quality of Life and Care Deficiencies
+F,693,F-0693,Ensure that feeding tubes are  not used unless there is a medical reason and the resident agrees; and provide appropriate care for a resident with a feeding tube.,Quality of Life and Care Deficiencies
+F,694,F-0694,"Provide for the safe, appropriate administration of IV fluids for a resident when needed.",Quality of Life and Care Deficiencies
+F,695,F-0695,Provide safe and appropriate respiratory care for a resident when needed.,Quality of Life and Care Deficiencies
+F,696,F-0696,Provide appropriate care/assistance for a resident with a prosthesis.,Quality of Life and Care Deficiencies
+F,697,F-0697,"Provide safe, appropriate pain management for a resident who requires such services.",Quality of Life and Care Deficiencies
+F,698,F-0698,"Provide safe, appropriate dialysis care/services for a resident who requires such services.",Quality of Life and Care Deficiencies
+F,699,F-0699,Provide care or services that was trauma informed and/or culturally competent.,Quality of Life and Care Deficiencies
+F,700,F-0700,"Try different approaches before using a bed rail.  If a bed rail is needed, the facility must (1) assess a resident for safety risk; (2) review these risks and benefits with the resident/representative; (3) get informed consent; and (4) Correctly install and maintain the bed rail.",Quality of Life and Care Deficiencies
+F,710,F-0710,Obtain a doctor's order to admit a resident and ensure the resident is under a doctor's care.,Nursing and Physician Services Deficiencies
+F,711,F-0711,"Ensure the resident's doctor reviews the resident's care, writes, signs and dates progress notes and orders, at each required visit.",Nursing and Physician Services Deficiencies
+F,712,F-0712,Ensure that the resident and his/her doctor meet face-to-face at all required visits.,Nursing and Physician Services Deficiencies
+F,713,F-0713,Provide or arrange emergency care by a doctor 24 hours a day.,Nursing and Physician Services Deficiencies
+F,714,F-0714,"Ensure the physician properly assigns and delegates tasks to a physician assistant, nurse practitioner or clinical nurse specialist.",Nursing and Physician Services Deficiencies
+F,715,F-0715,Ensure the physician properly assigns and delegates tasks to a qualified dietitian (or other qualified nutrition professional); or to a qualified therapist.,Nursing and Physician Services Deficiencies
+F,725,F-0725,Provide enough nursing staff every day to meet the needs of every resident; and have a licensed nurse in charge on each shift.,Nursing and Physician Services Deficiencies
+F,726,F-0726,Ensure that nurses and nurse aides have the appropriate competencies to care for every resident in a way that maximizes each resident's well being.,Nursing and Physician Services Deficiencies
+F,727,F-0727,Have a registered nurse on duty 8 hours a day; and  select a registered nurse to be the director of nurses on a full time basis.,Nursing and Physician Services Deficiencies
+F,728,F-0728,"Ensure that nurse aides who have worked more than 4 months, are trained and competent; and nurse aides who have worked less than 4 months are enrolled in appropriate training.",Nursing and Physician Services Deficiencies
+F,729,F-0729,"Verify that a nurse aide has been trained; and if they haven't worked as a nurse aide for 2 years, receive retraining.",Nursing and Physician Services Deficiencies
+F,730,F-0730,Observe each nurse aide's job performance and give regular training.,Nursing and Physician Services Deficiencies
+F,731,F-0731,Request a waiver if it can't meet the nurse staffing requirements.,Nursing and Physician Services Deficiencies
+F,732,F-0732,Post nurse staffing information every day.,Nursing and Physician Services Deficiencies
+F,740,F-0740,Ensure each resident must receive and the facility must provide necessary behavioral health care and services.,Quality of Life and Care Deficiencies
+F,741,F-0741,Ensure that the facility has sufficient staff members who possess the  competencies and skills to meet the behavioral health needs of residents.,Quality of Life and Care Deficiencies
+F,742,F-0742,"Provide the appropriate treatment and services to a resident who displays or is diagnosed with mental disorder or psychosocial adjustment difficulty, or who has a history of trauma and/or post-traumatic stress disorder.",Quality of Life and Care Deficiencies
+F,743,F-0743,"Ensure that a resident does not develop patterns of decreased social interaction and/or increased withdrawn, angry, or depressive behaviors, unless unavoidable.",Quality of Life and Care Deficiencies
+F,744,F-0744,Provide the appropriate treatment and services to a resident who displays or is diagnosed with dementia.,Quality of Life and Care Deficiencies
+F,745,F-0745,Provide medically-related social services to help each resident achieve the highest possible quality of life.,Quality of Life and Care Deficiencies
+F,755,F-0755,Provide pharmaceutical services to meet the needs of each resident and employ or obtain the services of a licensed pharmacist.,Pharmacy Service Deficiencies
+F,756,F-0756,"Ensure a licensed pharmacist perform a monthly drug regimen review, including the medical chart, following irregularity reporting guidelines in developed policies and procedures.",Pharmacy Service Deficiencies
+F,757,F-0757,Ensure each resident’s drug regimen must be free from unnecessary drugs.,Pharmacy Service Deficiencies
+F,758,F-0758,"Implement gradual dose reductions(GDR) and non-pharmacological interventions, unless contraindicated, prior to initiating or instead of continuing psychotropic medication; and PRN orders for psychotropic medications are only used when the medication is necessary and PRN use is limited.",Pharmacy Service Deficiencies
+F,759,F-0759,Ensure medication error rates are not 5 percent or greater.,Pharmacy Service Deficiencies
+F,760,F-0760,Ensure that residents are free from significant medication errors.,Pharmacy Service Deficiencies
+F,761,F-0761,"Ensure drugs and biologicals used in the facility are labeled in accordance with currently accepted professional principles; and all drugs and biologicals must be stored in locked compartments, separately locked, compartments for controlled drugs.",Pharmacy Service Deficiencies
+F,770,F-0770,"Provide timely, quality laboratory services/tests to meet the needs of residents.",Administration Deficiencies
+F,771,F-0771,"Ensure laboratory services, blood blanks and transfusion services provided on-site meet requirements for certified laboratories.",Administration Deficiencies
+F,772,F-0772,"Have an agreement with an approved laboratory to obtain services, if on-site laboratory services aren't provided.",Administration Deficiencies
+F,773,F-0773,Provide or obtain laboratory tests/services when ordered and promptly tell the ordering practitioner of the results.,Administration Deficiencies
+F,774,F-0774,Help the resident with transportation to and from laboratory services outside of the facility.,Administration Deficiencies
+F,775,F-0775,"Keep complete, dated laboratory records in the resident's record.",Administration Deficiencies
+F,776,F-0776,"Provide timely, approved x-ray services, or have an agreement with an approved provider to obtain them.",Administration Deficiencies
+F,777,F-0777,Provide or obtain x-rays/tests when ordered and promptly tell the ordering practitioner of the results.,Administration Deficiencies
+F,778,F-0778,Help the resident make transportation arrangements to and from radiology services.,Administration Deficiencies
+F,779,F-0779,Keep signed and dated reports of x-rays and other diagnostic services in the residents record.,Administration Deficiencies
+F,790,F-0790,Provide routine and 24-hour emergency dental care for each resident.,Quality of Life and Care Deficiencies
+F,791,F-0791,Provide or obtain dental services for each resident.,Quality of Life and Care Deficiencies
+F,800,F-0800,"Provide each resident with a nourishing, palatable, well-balanced diet that meets his or her daily nutritional and special dietary needs.",Nutrition and Dietary Deficiencies
+F,801,F-0801,"Employ sufficient staff with the appropriate competencies and skills sets to carry out the functions of the food and nutrition service, including a qualified dietician.",Nutrition and Dietary Deficiencies
+F,802,F-0802,Provide sufficient support personnel to safely and effectively carry out the functions of the food and nutrition service.,Nutrition and Dietary Deficiencies
+F,803,F-0803,"Ensure menus must meet the nutritional needs of residents, be prepared in advance, be followed, be updated, be reviewed by dietician, and meet the needs of the resident.",Nutrition and Dietary Deficiencies
+F,804,F-0804,"Ensure food and drink is palatable, attractive, and at a safe and appetizing temperature.",Nutrition and Dietary Deficiencies
+F,805,F-0805,Ensure each resident receives and the facility provides food prepared in a form designed to meet individual needs.,Nutrition and Dietary Deficiencies
+F,806,F-0806,"Ensure each resident receives and the facility provides food that accommodates resident allergies, intolerances, and preferences, as well as appealing options.",Nutrition and Dietary Deficiencies
+F,807,F-0807,Ensure each resident receives and the facility provides drinks consistent with resident needs and preferences and sufficient to maintain resident hydration.,Nutrition and Dietary Deficiencies
+F,808,F-0808,"Ensure therapeutic diets are prescribed by the attending physician and may be delegated to a registered or licensed dietitian, to the extent allowed by State law.",Nutrition and Dietary Deficiencies
+F,809,F-0809,"Ensure meals and snacks are served at times in accordance with resident’s needs, preferences, and requests.  Suitable and nourishing alternative meals and snacks must be provided for residents who want to eat at non-traditional times or outside of scheduled meal times.",Nutrition and Dietary Deficiencies
+F,810,F-0810,Provide special eating equipment and utensils for residents who need them and appropriate assistance.,Nutrition and Dietary Deficiencies
+F,811,F-0811,"Ensure that residents are assessed for appropriateness for a feeding assistant program, receive services as per their plan of care, and feeding assistants are trained and supervised.",Nutrition and Dietary Deficiencies
+F,812,F-0812,"Procure food from sources approved or considered satisfactory and store, prepare, distribute and serve food in accordance with professional standards.",Nutrition and Dietary Deficiencies
+F,813,F-0813,Have a policy regarding use and storage of foods brought to residents by family and other visitors.,Nutrition and Dietary Deficiencies
+F,814,F-0814,Dispose of garbage and refuse properly.,Nutrition and Dietary Deficiencies
+F,825,F-0825,Provide or get specialized rehabilitative services as required for a resident.,Quality of Life and Care Deficiencies
+F,826,F-0826,"Provide specialized rehabilitative services by qualified personnel, when ordered for a resident by a doctor.",Quality of Life and Care Deficiencies
+F,835,F-0835,Administer the facility in a manner that enables it to use its resources effectively and efficiently.,Administration Deficiencies
+F,836,F-0836,"Ensure the facility is licensed under applicable State and local law and operates and provides services in compliance with all applicable Federal, State, and local laws, regulations, and codes, and with accepted professional standards.",Administration Deficiencies
+F,837,F-0837,Establish a governing body that is legally responsible for establishing and implementing policies for managing and operating the facility and appoints a properly licensed administrator responsible for managing the facility.,Administration Deficiencies
+F,838,F-0838,Conduct and document a facility-wide assessment to determine what resources are necessary to care for residents competently during both day-to-day operations and emergencies.,Administration Deficiencies
+F,839,F-0839,"Employ staff that are licensed, certified, or registered in accordance with state laws.",Administration Deficiencies
+F,840,F-0840,Employ or obtain outside professional resources to provide services in the nursing home when the facility does not employ a qualified professional to furnish a required service.,Administration Deficiencies
+F,841,F-0841,Designate a physician to serve as medical director responsible for implementation of resident care policies and coordination of medical care in the facility.,Nursing and Physician Services Deficiencies
+F,842,F-0842,Safeguard resident-identifiable information and/or maintain medical records on each resident that are in accordance with accepted professional standards.,Resident Assessment and Care Planning Deficiencies
+F,843,F-0843,Have an agreement with at least one or more hospitals certified by Medicare or Medicaid to make sure residents can be moved quickly to the hospital when they need medical care.,Administration Deficiencies
+F,844,F-0844,Follow rules about disclosure of ownership requirements and tell the state agency about changes in ownership and/or administrative personnel.,Administration Deficiencies
+F,845,F-0845,"Submit a timely, acceptable plan for facility closure, including notification of the appropriate entities and ensuring residents are transferred in a safe and orderly manner.",Administration Deficiencies
+F,846,F-0846,Have policies and procedures ensuring the administrator's responsibilities for facility closure are completed successfully.,Administration Deficiencies
+F,847,F-0847,Inform resident or representatives choice to enter into binding arbitration agreement and right to refuse.,Administration Deficiencies
+F,848,F-0848,Provide a neutral and fair arbitration process and agree to arbitrator and venue.,Administration Deficiencies
+F,849,F-0849,Arrange for the provision of hospice services or assist the resident in transferring to a facility that will arrange for the provision of hospice services.,Administration Deficiencies
+F,850,F-0850,Hire a qualified full-time social worker in a facility with more than 120 beds.,Administration Deficiencies
+F,851,F-0851,"Electronically submit to CMS complete and accurate direct care staffing information, based on payroll and other verifiable and auditable data.",Administration Deficiencies
+F,865,F-0865,Have a  plan that describes the process for conducting QAPI and QAA activities.,Administration Deficiencies
+F,866,F-0866,"Set up an ongoing quality assessment and assurance group to review quality deficiencies quarterly, and develop corrective plans of action.",Administration Deficiencies
+F,867,F-0867,Set up an ongoing quality assessment and assurance group to review quality deficiencies  and develop corrective plans of action.,Administration Deficiencies
+F,868,F-0868,Have the Quality Assessment and Assurance group have the required members and meet at least quarterly,Administration Deficiencies
+F,880,F-0880,Provide and implement an infection prevention and control program.,Infection Control Deficiencies
+F,881,F-0881,Implement a program that monitors antibiotic use.,Infection Control Deficiencies
+F,882,F-0882,Designate a qualified infection preventionist to be responsible for the infection prevent and control program in the nursing home.,Infection Control Deficiencies
+F,883,F-0883,Develop and implement policies and procedures for flu and pneumonia vaccinations.,Infection Control Deficiencies
+F,884,F-0884,Report COVID19 data to NHSN.,Infection Control Deficiencies
+F,885,F-0885,Report COVID19 data to residents and families.,Infection Control Deficiencies
+F,886,F-0886,Perform COVID19 testing on residents and staff.,Infection Control Deficiencies
+F,887,F-0887,"Educate residents and staff on COVID-19 vaccination, offer the COVID-19 vaccine to eligible residents and staff after education, and properly document each resident and staff member's vaccination status.",Infection Control Deficiencies
+F,888,F-0888,Ensure staff are vaccinated for COVID-19,Infection Control Deficiencies
+F,895,F-0895,Have a Compliance and Ethics Program.,Administration Deficiencies
+F,906,F-0906,"Provide enough power supply for lighting all entrances and exits; equipment for fire detection and alarm systems, and extinguishers.",Environmental Deficiencies
+F,907,F-0907,Provide enough space and equipment to meet each resident's needs,Environmental Deficiencies
+F,908,F-0908,Keep all essential equipment working safely.,Environmental Deficiencies
+F,909,F-0909,"Regularly inspect all bed frames, mattresses, and bed rails (if any) for safety; and all bed rails and mattresses must attach safely to the bed frame.",Environmental Deficiencies
+F,910,F-0910,Ensure resident rooms meet each resident's needs.,Environmental Deficiencies
+F,911,F-0911,"Ensure resident rooms hold no more than 4 residents; for new construction after November 28, 2016, rooms hold no more than 2 residents.",Environmental Deficiencies
+F,912,F-0912,Provide rooms that are at least 80 square feet per resident in multiple rooms and 100 square feet for single resident rooms.,Environmental Deficiencies
+F,913,F-0913,Provide bedrooms that have direct access to an exit hallway.,Environmental Deficiencies
+F,914,F-0914,Provide bedrooms that don't allow residents to see each other when privacy is needed.,Environmental Deficiencies
+F,915,F-0915,Ensure each resident room has a window to the outside that meets requirements,Environmental Deficiencies
+F,916,F-0916,Ensure each resident has a room at or above ground level.,Environmental Deficiencies
+F,917,F-0917,Make sure each resident has 1) at least one window to the outside in a room; 2) a room at or above ground level; 3) adequate bedding; 4) furniture that meets the resident's needs; or 5) adequate closet space.,Environmental Deficiencies
+F,918,F-0918,Provide a bathroom in or located near each resident’s room.,Environmental Deficiencies
+F,919,F-0919,Make sure that a working call system is available in each resident's  bathroom and bathing area.,Environmental Deficiencies
+F,920,F-0920,"Provide at least one room set aside to use as a resident dining room and for activities, that is a good size, with good lighting, air flow and furniture.",Environmental Deficiencies
+F,921,F-0921,"Make sure that the nursing home area is safe, easy to use, clean and comfortable for residents, staff and the public.",Environmental Deficiencies
+F,922,F-0922,Have enough backup water supply for essential areas of the nursing home.,Environmental Deficiencies
+F,923,F-0923,"Have enough outside ventilation via a window or mechanical ventilation, or both.",Environmental Deficiencies
+F,924,F-0924,Put firmly secured handrails on each side of hallways.,Environmental Deficiencies
+F,925,F-0925,"Make sure there is a pest control program to prevent/deal with mice, insects, or other pests.",Environmental Deficiencies
+F,926,F-0926,Have policies on smoking.,Environmental Deficiencies
+F,940,F-0940,"Develop, implement, and/or maintain an effective training program for all new and existing staff members.",Administration Deficiencies
+F,941,F-0941,"Develop, implement, and/or maintain an effective training program that includes effective communications for direct care staff members.",Administration Deficiencies
+F,942,F-0942,Ensure that staff members are educated on resident rights and facility responsibilities to properly care for its residents.,Resident Rights Deficiencies
+F,943,F-0943,"Give their staff education on dementia care, and what abuse, neglect, and exploitation are; and how to report abuse, neglect, and exploitation.","Freedom from Abuse, Neglect, and Exploitation Deficiencies"
+F,945,F-0945,"Include as part of its infection prevention and control program, mandatory training that includes written standards, policies, and procedures for the program.",Infection Control Deficiencies
+F,946,F-0946,Provide training in compliance and ethics.,Administration Deficiencies
+F,947,F-0947,"Ensure nurse aides have the skills they need to care for residents, and give nurse aides education in dementia care and abuse prevention.",Nursing and Physician Services Deficiencies
+F,948,F-0948,Ensure that paid feeding assistants have the training they need.,Nursing and Physician Services Deficiencies
+F,949,F-0949,Provide behavior health training consistent with the requirements and as determined by a facility assessment.,Administration Deficiencies
+K,11,K-0011,A two-hour-resistant firewall separation.,Construction Deficiencies
+K,12,K-0012,Approved construction type or materials.,Construction Deficiencies
+K,14,K-0014,Fire resistant interior walls.,Interior Deficiencies
+K,15,K-0015,Fire resistant room wall surfaces.,Interior Deficiencies
+K,16,K-0016,Fire resistant floor finishes.,Interior Deficiencies
+K,17,K-0017,Corridors that are separated from use areas by walls constructed to limit the passage of smoke.,Corridor Walls and Doors Deficiencies
+K,18,K-0018,Corridor and hallway doors that block smoke.,Corridor Walls and Doors Deficiencies
+K,19,K-0019,Properly constructed windows in hallway walls or doors.,Corridor Walls and Doors Deficiencies
+K,20,K-0020,Proper stairway enclosures and vertical shafts.,Construction Deficiencies
+K,21,K-0021,Exit doors that are held open by devices that will automatically close on the activation of a fire alarm or smoke detector.,Construction Deficiencies
+K,22,K-0022,Signs that state that exit doors are to be kept closed.,Corridor Walls and Doors Deficiencies
+K,23,K-0023,At least two compartments on every floor to protect residents from smoke.,Smoke Deficiencies
+K,24,K-0024,Properly sized and located compartments to protect residents from  smoke.,Smoke Deficiencies
+K,25,K-0025,Walls that prevent smoke from passing through and would resist fire for at least one hour.,Smoke Deficiencies
+K,26,K-0026,Enough space near smoke barriers to protect residents.,Smoke Deficiencies
+K,27,K-0027,Smoke barrier doors that can resist smoke for at least 20 minutes.,Smoke Deficiencies
+K,28,K-0028,Doors of sufficient width and proper construction in smoke barriers.,Smoke Deficiencies
+K,29,K-0029,Special areas constructed so that walls can resist fire for one hour or an approved fire extinguishing system.,Hazardous Area Deficiencies
+K,30,K-0030,Gift shops separated and protected as hazardous areas.,Hazardous Area Deficiencies
+K,31,K-0031,A properly protected laboratory for handling hazardous materials.,Laboratories Deficiencies
+K,32,K-0032,At least two remote exits on each floor or fire section of the building.,Egress Deficiencies
+K,33,K-0033,Protected exits that allow the resident to escape the building.,Construction Deficiencies
+K,34,K-0034,Exit stairways and towers that are smoke proof.,Egress Deficiencies
+K,35,K-0035,Large enough exits.,Egress Deficiencies
+K,36,K-0036,Properly spaced exits within rooms.,Egress Deficiencies
+K,37,K-0037,Dead end corridors.,Egress Deficiencies
+K,38,K-0038,Exits that are accessible at all times.,Egress Deficiencies
+K,39,K-0039,Corridors or aisles that are unobstructed and are at least 8 feet in width.,Egress Deficiencies
+K,40,K-0040,Resident room doors of proper design and width.,Egress Deficiencies
+K,41,K-0041,Hallway or ground-level exits in all residents' rooms.,Egress Deficiencies
+K,42,K-0042,Two separate exits in rooms of more than 1000 square feet.,Egress Deficiencies
+K,43,K-0043,Rooms that can be unlocked from inside without a key.,Egress Deficiencies
+K,44,K-0044,Horizontal exits.,Egress Deficiencies
+K,45,K-0045,Proper backup exit lighting.,Illumination and Emergency Power Deficiencies
+K,46,K-0046,Emergency lighting that can last at least 1 1/2 hours.,Illumination and Emergency Power Deficiencies
+K,47,K-0047,"Properly located and lighted ""Exit"" signs.",Illumination and Emergency Power Deficiencies
+K,48,K-0048,A written emergency evacuation plan.,Emergency Plans and Fire Drills Deficiencies
+K,50,K-0050,Record of quarterly fire drills for each shift under varying conditions.,Emergency Plans and Fire Drills Deficiencies
+K,51,K-0051,A fire alarm system that can be heard throughout the facility.,Fire Alarm Systems Deficiencies
+K,52,K-0052,"An approved installation, maintenance and testing program for fire alarm systems.",Fire Alarm Systems Deficiencies
+K,53,K-0053,An automatic smoke detection system in all hallways.,Fire Alarm Systems Deficiencies
+K,54,K-0054,Properly maintained smoke detectors.,Fire Alarm Systems Deficiencies
+K,55,K-0055,Outside doors or windows in every resident room.,Fire Alarm Systems Deficiencies
+K,56,K-0056,An approved automatic sprinkler system connected to the fire alarm system.,Automatic Sprinkler Systems Deficiencies
+K,59,K-0059,A properly installed device for maintaining water pressure in the sprinkler system.,Automatic Sprinkler Systems Deficiencies
+K,60,K-0060,A complete sprinkler system with alarm system connection.,Automatic Sprinkler Systems Deficiencies
+K,61,K-0061,Properly working alarms on sprinkler valves.,Automatic Sprinkler Systems Deficiencies
+K,62,K-0062,Automatic sprinkler systems that have been maintained in working order.,Automatic Sprinkler Systems Deficiencies
+K,63,K-0063,An adequate water supply for the sprinkler system.,Automatic Sprinkler Systems Deficiencies
+K,64,K-0064,Portable fire extinguishers.,Automatic Sprinkler Systems Deficiencies
+K,66,K-0066,"Posted ""No-smoking"" signs in areas where smoking is not permitted or ashtrays provided where smoking was allowed.",Smoking Regulations Deficiencies
+K,67,K-0067,Heating and ventilation systems that have been properly installed according to the manufacturer's instructions.,Services Deficiencies
+K,68,K-0068,An externally vented heating system.,Services Deficiencies
+K,69,K-0069,Properly protected cooking facilities.,Services Deficiencies
+K,70,K-0070,Restrictions on the use of portable space heaters.,Services Deficiencies
+K,71,K-0071,Properly constructed linen or trash chutes.,Services Deficiencies
+K,72,K-0072,Exits that are free from obstructions and can be used at all times.,Interior Deficiencies
+K,73,K-0073,Restrictions on the use of highly flammable decorations.,Interior Deficiencies
+K,74,K-0074,Restrictions on the use of flammable curtains.,Interior Deficiencies
+K,75,K-0075,Properly sized and located linen or trash receptacles.,Interior Deficiencies
+K,76,K-0076,Proper medical gas storage and administration areas.,Medical Gases and Anesthetizing Areas Deficiencies
+K,77,K-0077,Properly constructed piped-in oxygen systems.,Medical Gases and Anesthetizing Areas Deficiencies
+K,78,K-0078,Properly constructed and protected anesthetizing areas.,Medical Gases and Anesthetizing Areas Deficiencies
+K,100,K-0100,Meet other general requirements.,Construction Deficiencies
+K,103,K-0103,Noncombustible or limited-combustible interior walls.,Construction Deficiencies
+K,104,K-0104,Proper construction of ducts through walls designed to prevent smoke passage.,Smoke Deficiencies
+K,105,K-0105,Proper lighting for emergency exits.,Illumination and Emergency Power Deficiencies
+K,106,K-0106,Proper power supply for life support equipment.,Electrical Deficiencies
+K,107,K-0107,An alternate power supply for its alarm system.,Illumination and Emergency Power Deficiencies
+K,108,K-0108,Emergency power for alarms and communications systems (new only).,Illumination and Emergency Power Deficiencies
+K,109,K-0109,A properly located automatic smoke detector system in all hallways (new only).,Fire Alarm Systems Deficiencies
+K,111,K-0111,"Satisfy building requirements after a repair, renovation, modification, or change of user/occupancy.",Construction Deficiencies
+K,112,K-0112,Add automatic sprinklers after major renovation.,Construction Deficiencies
+K,130,K-0130,Have other fire safety features required by fire safety codes.,Miscellaneous Deficiencies
+K,134,K-0134,Emergency showers.,Laboratories Deficiencies
+K,135,K-0135,Proper facilities for the use and storage of combustible liquids.,Laboratories Deficiencies
+K,136,K-0136,Proper procedures for handling laboratory emergencies.,Laboratories Deficiencies
+K,140,K-0140,A properly installed medical gas master alarm panel.,Medical Gases and Anesthetizing Areas Deficiencies
+K,141,K-0141,No-smoking signs where oxygen is used.,Medical Gases and Anesthetizing Areas Deficiencies
+K,142,K-0142,A properly constructed or installed hyperbaric treatment facility.,Medical Gases and Anesthetizing Areas Deficiencies
+K,143,K-0143,"Have proper fire barriers, ventilation and signs for the transfilling of oxygen.",Medical Gases and Anesthetizing Areas Deficiencies
+K,144,K-0144,Weekly inspections and monthly testing of generators.,Electrical Deficiencies
+K,145,K-0145,The appropriate emergency electrical system.,Electrical Deficiencies
+K,146,K-0146,A separate and independent backup electrical power source.,Electrical Deficiencies
+K,147,K-0147,Properly installed electrical wiring and equipment.,Electrical Deficiencies
+K,153,K-0153,Procedures for handling laboratory emergencies.,Laboratories Deficiencies
+K,154,K-0154,Back-up procedures in place for a faulty automatic sprinkler system.,Automatic Sprinkler Systems Deficiencies
+K,155,K-0155,An approved back-up procedure for a faulty fire alarm system.,Fire Alarm Systems Deficiencies
+K,160,K-0160,An elevator that firefighters can control in the event of a fire.,Services Deficiencies
+K,163,K-0163,Install noncombustible or limited-combustible interior walls.,Construction Deficiencies
+K,168,K-0168,Be of proper construction type and height - slow evacuation,Construction Deficiencies
+K,169,K-0169,Be of proper construction type and height - impractical evacuation,Construction Deficiencies
+K,200,K-0200,Meet other general requirements.,Egress Deficiencies
+K,221,K-0221,Provide rooms that can be unlocked from inside without a key.,Egress Deficiencies
+K,222,K-0222,Add doors in an exit area that do not require the use of a key from the exit side unless in case of special locking arrangements.,Egress Deficiencies
+K,223,K-0223,Provide exit doors that are held open by devices that will automatically close on the activation of a fire alarm or smoke detector.,Egress Deficiencies
+K,224,K-0224,"Provide sliding doors free of hazards, operable without special knowledge or effort, and meet weight requirements to set door in motion.",Egress Deficiencies
+K,225,K-0225,Have stairways and smokeproof enclosures used as exits that meet safety requirements.,Egress Deficiencies
+K,226,K-0226,Have horizontal exits used in accordance with safety requirements.,Egress Deficiencies
+K,227,K-0227,"Have ramps, exits, fire escape ladders, steps, and areas of refuge that meet safety requirements.",Egress Deficiencies
+K,228,K-0228,Have properly designed and constructed stairways and smokeproof enclosures.,Egress Deficiencies
+K,231,K-0231,Provide large enough exits.,Egress Deficiencies
+K,232,K-0232,Have corridors or aisles that are unobstructed and are at least 8 feet in width.,Egress Deficiencies
+K,233,K-0233,Install resident room doors of proper design and width.,Egress Deficiencies
+K,241,K-0241,Have correct number of accessible exits for each story.,Egress Deficiencies
+K,251,K-0251,Conform to length requirements for dead end corridors.,Egress Deficiencies
+K,252,K-0252,Provide at least two remote exits on each floor or fire section of the building.,Egress Deficiencies
+K,253,K-0253,Provide two separate exits in rooms of more than 1000 square feet.,Egress Deficiencies
+K,254,K-0254,Provide hallway or ground-level exits in all residents' rooms.,Egress Deficiencies
+K,255,K-0255,Ensure that suites are correctly sub-divided by noncombustible or limited-combustible construction.,Egress Deficiencies
+K,256,K-0256,Ensure that sleeping suites have required exit access and constant staff supervision.,Egress Deficiencies
+K,257,K-0257,Ensure that non-sleeping suites have required exit access.,Egress Deficiencies
+K,258,K-0258,Provide enough exits,Egress Deficiencies
+K,259,K-0259,Provide enough exits,Egress Deficiencies
+K,261,K-0261,Have properly spaced exits within rooms.,Egress Deficiencies
+K,271,K-0271,Have exits that are accessible at all times.,Egress Deficiencies
+K,281,K-0281,Install proper backup exit lighting.,Egress Deficiencies
+K,291,K-0291,Install emergency lighting that can last at least 1 1/2 hours.,Egress Deficiencies
+K,292,K-0292,"Ensure that buildings with life support systems have proper emergency lighting for equipment, exits, and directional signs.",Egress Deficiencies
+K,293,K-0293,"Have properly located and lighted ""Exit"" signs.",Egress Deficiencies
+K,299,K-0299,Provide appropriate exit signage,Egress Deficiencies
+K,300,K-0300,Meet other general requirements that are deficient.,Egress Deficiencies
+K,311,K-0311,Have an enclosure around a vertical opening shaft.,Smoke Deficiencies
+K,321,K-0321,Ensure that special areas are constructed so that walls can resist fire for one hour or have an approved fire extinguishing system.,Smoke Deficiencies
+K,322,K-0322,"Ensure that laboratories employing quantities of flammable, combustible, or hazardous materials have fire resistant walls and automatic sprinkler system.",Smoke Deficiencies
+K,323,K-0323,Provide properly constructed and protected anesthetizing areas.,Smoke Deficiencies
+K,324,K-0324,Provide properly protected cooking facilities.,Smoke Deficiencies
+K,325,K-0325,Have properly installed hallway dispensers for alcohol-based hand rub.,Smoke Deficiencies
+K,329,K-0329,Have proper enclosures for hazardous areas,Smoke Deficiencies
+K,331,K-0331,Construct fire resistant interior walls.,Smoke Deficiencies
+K,332,K-0332,Ensure that floor finishes have correct flame spread rating.,Smoke Deficiencies
+K,338,K-0338,Have proper interior wall and ceiling finish,Smoke Deficiencies
+K,341,K-0341,Install a fire alarm system that can be heard throughout the facility.,Smoke Deficiencies
+K,342,K-0342,Have a complete alarm system manually initiated and initiated by fire sprinkler system connection.,Smoke Deficiencies
+K,343,K-0343,Have a fire alarm with audible and visual signals that transmits the alarm automatically to notify emergency forces in event of fire.,Smoke Deficiencies
+K,344,K-0344,Have an alternate power supply for its alarm system.,Smoke Deficiencies
+K,345,K-0345,"Have approved installation, maintenance and testing program for fire alarm systems.",Smoke Deficiencies
+K,346,K-0346,Follow proper procedures when the fire alarm was out of service for more than 4 hours.,Smoke Deficiencies
+K,347,K-0347,Properly provide smoke detection systems in areas open to corridors.,Smoke Deficiencies
+K,351,K-0351,Install an approved automatic sprinkler system.,Smoke Deficiencies
+K,352,K-0352,Properly install and monitor supervisory attachments on automatic sprinkler systems.,Smoke Deficiencies
+K,353,K-0353,"Inspect, test, and maintain automatic sprinkler systems.",Smoke Deficiencies
+K,354,K-0354,Follow proper procedures when the automatic sprinkler systems was out of service for more than 10 hours.,Smoke Deficiencies
+K,355,K-0355,"Properly select, install, inspect, or maintain portable fire extinguishes.",Smoke Deficiencies
+K,361,K-0361,"Ensure that waiting areas, nurse’s stations, gift shops, and cooking facilities, open to the corridor are properly protected.",Smoke Deficiencies
+K,362,K-0362,Ensure that corridors are separated from use areas by walls constructed to limit the passage of smoke.,Smoke Deficiencies
+K,363,K-0363,Install corridor and hallway doors that block smoke.,Smoke Deficiencies
+K,364,K-0364,Install properly constructed windows in hallway walls or doors.,Smoke Deficiencies
+K,371,K-0371,Have properly sized and located compartments to protect residents from smoke.,Smoke Deficiencies
+K,372,K-0372,Ensure smoke barriers are constructed to a 1 hour fire resistance rating.,Smoke Deficiencies
+K,373,K-0373,Have enough space near smoke barriers to protect residents.,Smoke Deficiencies
+K,374,K-0374,Install smoke barrier doors that can resist smoke for at least 20 minutes.,Smoke Deficiencies
+K,379,K-0379,Have proper openings in smoke barrier doors.,Smoke Deficiencies
+K,381,K-0381,Provide outside doors or windows in every resident room.,Smoke Deficiencies
+K,400,K-0400,Meet fire sprinkler requirement for tall buildings.,Miscellaneous Deficiencies
+K,421,K-0421,Ensure that building is protected throughout by an automatic sprinkler system.,Miscellaneous Deficiencies
+K,500,K-0500,Meet other general requirements that are deficient.,Services Deficiencies
+K,511,K-0511,Have properly installed electrical wiring and gas equipment.,Services Deficiencies
+K,521,K-0521,Ensure heating and ventilation systems that have been properly installed according to the manufacturer's instructions.,Services Deficiencies
+K,522,K-0522,Have an externally vented heating system.,Services Deficiencies
+K,523,K-0523,Ensure that HVAC heat units are suspended and out of the reach of patients and can be shut off if unit is working improperly.,Services Deficiencies
+K,524,K-0524,Ensure that gas fire places are out of the reach of patients and can be shut off if unit is working improperly.,Services Deficiencies
+K,525,K-0525,Enure that solid fuel-burning fireplaces are not in patient sleeping areas.,Services Deficiencies
+K,531,K-0531,Have elevators that firefighters can control in the event of a fire.,Services Deficiencies
+K,532,K-0532,Have a properly installed and maintained dumbwaiter or escalator.,Services Deficiencies
+K,541,K-0541,Install properly constructed and protected linen or trash chutes.,Services Deficiencies
+K,700,K-0700,"Meet requirements for operating features, such as evacuation plans, fire drills, smoking regulations, draperies, decorations and the inspection, testing and maintenance of fire doors.",Miscellaneous Deficiencies
+K,711,K-0711,Provide a written emergency evacuation plan.,Miscellaneous Deficiencies
+K,712,K-0712,Have simulated fire drills held at unexpected times.,Miscellaneous Deficiencies
+K,741,K-0741,"Have posted ""No-smoking"" signs in areas where smoking is not permitted or ashtrays provided where smoking was allowed.",Miscellaneous Deficiencies
+K,751,K-0751,Have restrictions on the use of flammable curtains.,Miscellaneous Deficiencies
+K,752,K-0752,Ensure new upholstered furniture and mattresses meet char length and heat release criteria.,Miscellaneous Deficiencies
+K,753,K-0753,Have restrictions on the use of highly flammable decorations.,Miscellaneous Deficiencies
+K,754,K-0754,Provide properly sized and located linen or trash receptacles.,Miscellaneous Deficiencies
+K,761,K-0761,"To conduct inspection, testing and maintenance of fire doors by qualified individuals.",Miscellaneous Deficiencies
+K,771,K-0771,Ensure that smoke control systems are tested and documented in accordance with established engineering principles.,Miscellaneous Deficiencies
+K,781,K-0781,Have restrictions on the use of portable space heaters.,Miscellaneous Deficiencies
+K,791,K-0791,"Ensure that any exit in an area undergoing construction, repair, or improvements shall be inspected daily to ensure its ability to be used instantly in case of emergency.",Miscellaneous Deficiencies
+K,900,K-0900,Meet Health Care Facilities Code mechanical requirements.,Miscellaneous Deficiencies
+K,901,K-0901,Ensure that building systems meet requirements determined by risk assessment procedures performed by qualified personnel.,Electrical Deficiencies
+K,902,K-0902,Meet requirements for the installation and maintenance of medical gas and medical vacuum systems.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,903,K-0903,"Ensure medical gas and air supply systems in which failure is likely to cause major injury or death, are correctly designated.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,904,K-0904,Have a properly installed medical gas master alarm panel.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,905,K-0905,"Ensure that gas containers are correctly designed and tested, and in locations that are labeled.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,906,K-0906,Ensure gas cylinders are properly stored.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,907,K-0907,Ensure medical gas and vacuum systems have documented maintenance programs.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,908,K-0908,Ensure gas and vacuum systems are inspected and tested as part of a maintenance program.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,909,K-0909,Ensure gas and vacuum piping is labeled.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,910,K-0910,"Ensure when modifications are made that breach pipelines, testing is conducted on downstream portions of the piping system.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,911,K-0911,Meet requirements for the installation and maintenance of electrical systems.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,912,K-0912,Have power receptacles that are properly grounded.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,913,K-0913,Ensure operating rooms are properly protected and written records are maintained and available for inspection.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,914,K-0914,"Ensure receptacles at patient bed locations and where general anesthesia is administered, are tested after initial installation, replacement or servicing.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,915,K-0915,Have proper power supply for life support equipment.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,916,K-0916,Have a battery powered remote alarm panel in a location accessible by operating personnel.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,917,K-0917,Ensure electrical receptacles or cover plates have distinctive color or marking.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,918,K-0918,Have generator or other power source capable of supplying service within 10 seconds.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,919,K-0919,Meet requirements for the use of electrical equipment.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,920,K-0920,Ensure proper usage of power strips and extension cords.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,921,K-0921,Ensure that testing and maintenance of electrical equipment is performed.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,922,K-0922,Meet requirements for the use and maintenance of medical gas equipment.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,923,K-0923,Have proper medical gas storage and administration areas.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,924,K-0924,"Ensure that anesthesia apparatus are tested after any adjustment, modification or repair.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,925,K-0925,Ensure that sources of ignition are removed from patients receiving respiratory therapy.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,926,K-0926,Ensure that personnel concerned with handling of medical gases and cylinders are trained on the risk.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,927,K-0927,"Have proper fire barriers, ventilation and signs for the transfilling of oxygen.","Gas, Vacuum, and Electrical Systems Deficiencies"
+K,928,K-0928,Ensure equipment listed for use in oxygen-enriched atmospheres are correctly labeled.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,929,K-0929,Ensure precautions for handling oxygen cylinders and equipment are correctly followed.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,930,K-0930,Ensure proper storage of liquid oxygen.,"Gas, Vacuum, and Electrical Systems Deficiencies"
+K,931,K-0931,Have a properly constructed or installed hyperbaric treatment facility.,Medical Gases and Anesthetizing Areas Deficiencies
+K,932,K-0932,Meet other general requirements.,Smoke Deficiencies
+K,933,K-0933,"Ensure that periodic evaluations are made of hazards that could be encountered during surgical procedures, and fire prevention procedures are established.",Smoke Deficiencies
+K,8131,K-8131,Have proper procedures for controlling chemical spills.,Laboratories Deficiencies
+K,8132,K-8132,Have a proper laboratory safety education program.,Laboratories Deficiencies
+K,8133,K-8133,Have properly installed fume hoods.,Laboratories Deficiencies
+K,8161,K-8161,Have a properly installed and maintained dumbwaiter or escalator.,Services Deficiencies
+K,8162,K-8162,Have elevators that met current safety standards.,Services Deficiencies
+K,8211,K-8211,Provide properly installed hallway dispensers for alcohol-based hand rub.,Hazardous Area Deficiencies
+K,9131,K-9131,Meet requirements for sections of health care facilities separated by fire resistive construction.,Construction Deficiencies
+K,9132,K-9132,Meet requirements for outpatient facilities located next to inpatient facilities separated by fire resistive construction.,Construction Deficiencies
+K,9133,K-9133,Install a two-hour-resistant firewall separation.,Construction Deficiencies
+K,9161,K-9161,Use approved construction type or materials.,Construction Deficiencies
+K,9162,K-9162,Have a combustible roofing system that meets safety standards.,Construction Deficiencies
+K,9211,K-9211,"Keep aisles, corridors, and exits free of obstruction in case of emergency.",Egress Deficiencies
