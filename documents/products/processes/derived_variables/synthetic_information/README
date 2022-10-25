@@ -23,8 +23,8 @@ synthetic population ver. 2.0 for Virginia, US.
 3. More information on mapping can be found in ../../documents/products/processes/commute\_vulnerability/algorithm.md
 
 
-2. 
-This folder includes flood risks estimate for each worker's route to work.
+2. snf_to_worker_flood_risk
+The file is nf_to_worker_flood_risk includes flood risks estimate for each worker's route to work.
 
 ## Header
 
