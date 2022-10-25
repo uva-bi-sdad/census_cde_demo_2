@@ -1,5 +1,7 @@
-This folder contains the variables derived vrom synthetic information.
+This folder contains two .csv files with the variables derived vrom synthetic information.
 
+
+##snf_to_synthetic_information_mapping
 This folder includes mapping between cms' skilled nursing facilities to activity locations in NSSAC synthetic population ver. 2.0 for Virginia, US.
 
 ## Header
