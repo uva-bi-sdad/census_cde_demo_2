@@ -7,9 +7,9 @@ library(readr)
 library(ggplot2)
 
 # Copy the url of the data github
-url1 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/va_fire_safety_deficiencies_2022-12.csv"
-url2 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/va_provider_final_2022-07.csv"
-url3 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/us_inspection_dates_2022-06.csv"
+url1 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/va_cms_fire_safety_deficiencies_2022-12.csv"
+url2 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/va_cms_provider_final_2022-07.csv"
+url3 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/virginia_skilled_nursing_facility/facility/us_cms_inspection_dates_2022-06.csv"
 
 #Read in the CMS deficiency data from the url; there are 292 unique providers
 DEF<-read.csv(url1); dim(DEF); View(DEF) #(3952 x 22)
