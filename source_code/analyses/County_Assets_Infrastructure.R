@@ -154,7 +154,7 @@ POP<-read.csv(urlA10); dim(POP); View(POP)
 #Calculate the number of facilities/shelters per 10,000 residents  
 #Merge with the crosswalk to add the FIPs for each county/city   
     T1<-merge(POP, CO_assets, by="COUNTY", all.x=TRUE, all.y=TRUE); View(T1)
-    T1$PER10000<-(T1$resilience*10000)/T1$POP
+    T1$PER10000<-(T1$total*10000)/T1$POP
   CNTY_ASSETS<-T1; View(CNTY_ASSETS)
     temp<-merge(CNTY_ASSETS, CRWK, by="COUNTY", all.x=TRUE, all.y=TRUE); View(temp)
     CNTY_ASSETS<-temp[,c(11,1,2,3,4,5,6,7,8,9,10)]
