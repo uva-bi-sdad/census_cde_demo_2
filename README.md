@@ -39,6 +39,7 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
    - subfolder: ***Analyses***
 3. **DOCUMENTS FOLDER**
    - Subfolder: ***Products***
+     - Subfolder: *Visualizations* 
    - Subfolder: ***Data Tables***
      - Subfolder: *Community* 
      - Subfolder: *Skilled Nursing Facilities* 
