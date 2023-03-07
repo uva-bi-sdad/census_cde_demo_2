@@ -5,7 +5,7 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
      - Subfolder *Owners* - includes one data file and a meta data folder that contains data dictionaries and technical documents.
        - HSS/CMS/Ownership
      - Subfolder *Facilty* - includes three data files and a meta data folder that contains data dictionaries and technical documents.
-       - HSS/CMS/Fire Safety Deficiencies (include both Emergency and Fire Life Safety Code DEficiencies)
+       - HSS/CMS/Fire Safety Deficiencies (includes both Emergency and Fire Life Safety Code Deficiencies)
        - HSS/CMS/Inspection Dates
        - HSS/CMS/Provider Information 
      - Subfolder *Nursing Staff* - includes one data file and a meta data folder that contains data dictionaries and technical documents.
@@ -34,3 +34,18 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
         - DOC/Census/ACS/B23025 Employment Status for the Population 16 Year and Over
         - DOC/Census/ACS/S0101 Age and Sex
         - DOC/Census/ACS/S1501 Education Attainment
+2. **SOURCE CODE FOLDER**
+   - Subfolder: ***Discovery***
+   - subfolder: ***Analyses***
+3. **DOCUMENTS FOLDER**
+   - Subfolder: ***Products***
+   - Subfolder: ***Data Tables***
+   - Subfolder: ***Presentations and Reports***
+   - Subfolder: ***Literature***
+     - Subfolder: *Deficiencies* 
+     - Subfolder: *Emergency Preparedness* 
+     - Subfolder: *Nursing Staff Levels* 
+     - Subfolder: *Ownership* 
+     - Subfolder: *Resilience* 
+     - Subfolder: *Synthetic Data*  
+     - Subfolder: *Quality*
