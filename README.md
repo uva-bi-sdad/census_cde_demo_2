@@ -28,7 +28,7 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
        - Zipcode-Town-County Crosswalk
        - FIP-City-County Crosswalk
        - Virginia County and Independent City Population 2020
-     - Subfolder *Demographic* - includes no data, data are downloaded directly from Census within an R program. The list of the ACS data files is provided below. 
+     - Subfolder *Demographic* - includes no data, data are downloaded directly from Census within an R program. The list of the ACS data files used in the analyses is provided below. 
         - DOC/Census/ACS/B18101 Sex by Age by Disability
         - DOC/Census/ACS/B19083 Gini Index of Income Inequality
         - DOC/Census/ACS/B23025 Employment Status for the Population 16 Year and Over
