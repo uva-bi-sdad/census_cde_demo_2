@@ -41,11 +41,11 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
    - Subfolder: ***Products***
      - Subfolder: *Visualizations* 
      - Subfolder: *Data Tables*
-       - Subfolder: *Community* 
-       - Subfolder: *Skilled Nursing Facilities* 
+       - Subfolder: Community 
+       - Subfolder: Skilled Nursing Facilities 
      - Subfolder: *Processes*
-       - Subfolder: *Derived Variables* 
-       - Subfolder: *Commute Vulnerability*  
+       - Subfolder: Derived Variables 
+       - Subfolder: Commute Vulnerability  
      - Subfolder: *Presentations and Reports**
    - Subfolder: ***Literature***
      - Subfolder: *Deficiencies* 
