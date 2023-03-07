@@ -46,7 +46,7 @@ There are three main folders: DATA, SOURCE CODE, and PRODUCTS
      - Subfolder: *Processes*
        - Subfolder: Derived Variables 
        - Subfolder: Commute Vulnerability  
-     - Subfolder: *Presentations and Reports**
+     - Subfolder: *Presentations and Reports*
    - Subfolder: ***Literature***
      - Subfolder: *Deficiencies* 
      - Subfolder: *Emergency Preparedness* 
