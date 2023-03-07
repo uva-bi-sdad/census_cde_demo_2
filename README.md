@@ -1,6 +1,38 @@
 # GitHub Repository Structure
 There are three main folders: DATA, SOURCE CODE, and PRODUCTS
-1. DATA FOLDER
+1. **DATA FOLDER**
    - Subfolder: *Skill Nursing Facilty*
      - Subfolder Owners - includes one data file and a meta data folder that contains data dictionaries and techical documents.
        - HSS/CMS/Ownership
+     - Subfolder Facilty - includes data files and a meta data folder that contains data dictionaries and techical documents.
+       - HSS/CMS/Fire Safety Deficiencies (include both Emergency and Fire Life Safety Code DEficiencies)
+       - HSS/CMS/Inspection Dates
+       - HSS/CMS/Provider Information 
+     - Subfolder Nursing Staff - include one data file and a meta data folder that contains data dictionaries and techical documents.
+       - HSS/CMS/The Payroll Based Journal (PBJ) Employee Detail Nursing Home Staffing Datasets
+     - Subfolder Residents - includes one data file and a meta data folder that contains data dictionaries and techical documents.
+       - Brown University School of Public Health /LTCFocus
+   - Subfolder: *Community*
+     - Subfolder Climate Change - includes two data file and a meta data folder that contains data dictionaries and techical documents.
+       - DHS/FEMA/The National Risk (census tract)
+       - DHS/FEMA/The National Risk (county and independent cities)
+     - Subfolder Resilience - includes 11 data files and a meta data folder that contains data dictionaries and techical documents.
+       - DHS/HIFDL/American Red Cross
+       - DHS/HIFDL/Hospitals
+       - DHS/HIFDL/Emergency Medical Service Stations
+       - DHS/HIFDL/Urgent Care Facilities
+       - DHS/HIFDL/National Shelter System Facilities
+       - DHS/HIFDL/Fire Stations
+       - HHS/HRSA/Area Resource File
+       - Town-County Crosswalk
+       - Zipcode-Town-County Crosswalk
+       - FIP-City-County Crosswalk
+       - Virginia County and Independent City Population 2020
+     - Subfolder Nursing Staff - include one data file and a meta data folder that contains data dictionaries and techical documents.
+       - HSS/CMS/The Payroll Based Journal (PBJ) Employee Detail Nursing Home Staffing Datasets
+     - Subfolder Demographis - includes no data, data are downloaded directly from Cnsus with the R program. The list of the ACS is provided below. 
+       - DOC/Census/ACS/B18101 Sex by Age by Disability
+       - DOC/Census/ACS/B19083 Gini Index of Income Inequality
+       - DOC/Census/ACS/B23025 Employment Status for the Population 16 Year and Over
+       - DOC/Census/ACS/S0101 Age and Sex
+       - DOC/Census/ACS/S1501 Education Attainment
