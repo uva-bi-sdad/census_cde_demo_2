@@ -1,1 +1,5 @@
-The data folder is has three folders one for community data, skilled nursing facility data, and proprietary data.
+The data folder is has three folders: 
+community data sets that contains the variables we used for climate change, resilience, and demographics; 
+skilled nursing facility data sets that contains the variables we used for ; and 
+the final is for proprietary data which contains a README file describing the proprietary data with links to papers that describe
+their construction or in one case a link to the commerical website.
