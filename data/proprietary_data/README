@@ -1,5 +1,19 @@
-•	Transportation Routes – The first two are proprietary data sources from the Biocomplexity Institute’s (BI) Network Simulation Science and Advanced Computing (NSSAC) division. The third data source, HERE, is proprietary, and obtained from a private-sector vendor. 
-o	The BI NSSAC synthetic population ver. 2.0 for Virginia, US (DP-US-VA-2.0). The description of the elements and data fields contained in this product are provided in Detailed Overview and Description of Components in U.S. Pipeline 2019 (NSSAC Technical Report 2019-025) (Mortveit et al., 2023).
-o	The BI NSSAC Building Database for the US (BDB-1.0). The description of the modeling and the data fields included in this product are in NSSAC Building Knowledge Base Modeling and Implementation (NSSAC Technical Report 2021-16). (Mortveit, Xie, & Mararthe, 2023)
-o	The full description of the HERE Premium Streets data (2021/Q1) is provided to customers in a proprietary document (HERE NAVSTREETS Reference Guide v15.1.pdf for their 2022 Q1 data), which, as part of their terms of use, we are unable share. Examples of fields extracted include link IDs, function class (hierarchy level), speed limits, number of lanes, bi-/uni-directionality, geometry, length, road access restrictions (e.g., bus lanes, HOV lanes), road link additional details (e.g., tunnel, bridge, ferry), and details regarding evacuation.
-o	FEMA (Federal Emergency Management Agency) Riverine and Coastal Flooding Maps (FEMA, 2022a)
+Transportation Routes Data – The first two are proprietary data sources from the Biocomplexity Institute’s (BI) Network Simulation 
+Science and Advanced Computing (NSSAC) division. 
+
+1. The BI NSSAC synthetic population ver. 2.0 for Virginia, US (DP-US-VA-2.0). 
+The description of the elements and data fields contained in this product are provided in Detailed Overview and Description 
+of Components in U.S. Pipeline 2019 (NSSAC Technical Report 2019-025, Mortveit et al., 2023).
+https://github.com/uva-bi-sdad/census_cde_demo_2/blob/main/documents/literature/synthetic_data/NSSAC_Technical_Report_2019-025.pdf) 
+
+2. The BI NSSAC Building Database for the US (BDB-1.0). The description of the modeling and the data fields included in this 
+product are in NSSAC Building Knowledge Base Modeling and Implementation (NSSAC Technical Report 2021-16, Mortveit, Xie, & Mararthe, 2023).
+https://github.com/uva-bi-sdad/census_cde_demo_2/blob/main/documents/literature/synthetic_data/NSSAC_Technical_Report_2021-016.pdf
+
+3. The third data source, HERE, is proprietary, and obtained from a private-sector vendor. 
+The full description of the HERE Premium Streets data (2021/Q1) is provided to customers in a proprietary document 
+(HERE NAVSTREETS Reference Guide v15.1.pdf for their 2022 Q1 data), which, as part of their terms of use, we are unable share. 
+Examples of fields extracted include link IDs, function class (hierarchy level), speed limits, number of lanes, 
+bi-/uni-directionality, geometry, length, road access restrictions (e.g., bus lanes, HOV lanes), road link additional details 
+(e.g., tunnel, bridge, ferry), and details regarding evacuation.
+https://developer.here.com/products/platform/data	
