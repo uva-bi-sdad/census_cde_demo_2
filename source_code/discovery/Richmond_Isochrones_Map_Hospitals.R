@@ -91,18 +91,18 @@ dist<-SNF_sf %>%
 
 library(mapboxapi)
 #HIFDL API ArcGIS REST APIs  https://developers.arcgis.com/rest/location-based-services/
-#mb_access_token("pk.eyJ1IjoidmFsN3p2IiwiYSI6ImNsOXZkNzZhZzA3bzYzb2xzY29tOThxaDQifQ.cenRUfOm44HOk0wxv6M8OA", install = TRUE)
+#mb_access_token("", install = TRUE)
 #times<-mb_matrix(SNF_sf, richmond_hospitals)
 times<-mb_matrix(SNF_sf, facilities_sf)
 
 buf5km<-st_buffer(SNF_sf, dist=5000) 
 
-iso10min<-mb_isochrone(
-  SNF_sf, 
-  time=10, 
-  profile="driving-traffic",
-  depart_at="2022-11-05T17:00"
-)
+#iso10min<-mb_isochrone(
+#  SNF_sf, 
+#  time=10, 
+#  profile="driving-traffic",
+#  depart_at="2022-11-05T17:00"
+#)
 
 library(leaflet)
 library(leafsync)
