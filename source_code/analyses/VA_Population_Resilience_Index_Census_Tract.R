@@ -301,7 +301,7 @@ RESct_CI_KE_plot<-ggplot() +
   annotate("point", x=-81.90000, y=38.00989, colour="#999999", size=3.75) +
   annotate("text",  x=-82.850000, y=38.60000, adj=0.12, size=5.75, fontface="bold", label="Skilled Nursing Facility Fire Safety & Emergency\n               Preparedness Deficiency Index") 
 #This will save the map in your session directory
-ggsave("RESct_CI_KE_plot.pdf", width=14, height=10)
+#ggsave("RESct_CI_KE_plot.pdf", width=14, height=10)
 RESct_CI_KE_plot
 
 RESctnogeo<-st_drop_geometry(RESct); names(RESctnogeo)
