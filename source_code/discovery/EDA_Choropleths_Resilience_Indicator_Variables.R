@@ -298,7 +298,7 @@ DIS<-get_acs(geography="tract",
              cache_table = TRUE) 
 View(DIS); dim(DIS)
 
-#Percentage of the population 1with any disability
+#Percentage of the population with any disability
   DIS$MALE<-(DIS$B18101_004E+DIS$B18101_007E+DIS$B18101_010E+DIS$B18101_013E+DIS$B18101_016E)
 DIS$FEMALE<-(DIS$B18101_023E+DIS$B18101_026E+DIS$B18101_029E+DIS$B18101_032E+DIS$B18101_035E)
   DIS$PDIS<-round(((DIS$MALE+DIS$FEMALE)/DIS$B18101_001E)*100, 1)
