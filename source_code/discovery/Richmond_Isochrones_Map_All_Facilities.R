@@ -72,23 +72,23 @@ dist<-SNF_sf %>%
   st_distance(richmond_facilities) 
 
 library(mapboxapi)
-#mb_access_token("pk.eyJ1IjoidmFsN3p2IiwiYSI6ImNsOXZkNzZhZzA3bzYzb2xzY29tOThxaDQifQ.cenRUfOm44HOk0wxv6M8OA", install = TRUE)
+#mb_access_token("", install = TRUE)
 times<-mb_matrix(SNF_sf, richmond_facilities)
 
 buf5km<-st_buffer(SNF_sf, dist=5000) 
 
-iso15min<-mb_isochrone(
-  SNF_sf, 
-  time=15, 
-  profile="driving-traffic",
-  depart_at="2022-11-05T17:00"
-)
-iso30min<-mb_isochrone(
-  SNF_sf, 
-  time=30, 
-  profile="driving-traffic",
-  depart_at="2022-11-05T17:00"
-)
+#iso15min<-mb_isochrone(
+#  SNF_sf, 
+#  time=15, 
+#  profile="driving-traffic",
+#  depart_at="2022-11-05T17:00"
+#)
+#iso30min<-mb_isochrone(
+#  SNF_sf, 
+#  time=30, 
+#  profile="driving-traffic",
+#  depart_at="2022-11-05T17:00"
+#)
 
 
 #change the CRS for leaflet to 4326
