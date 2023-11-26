@@ -15,18 +15,18 @@ url1 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/data/communit
 #Read in the Area Resource File
 #Keep location variables and the health professional shortage categories
 AHRF<-read.csv(url1); dim(AHRF); names(AHRF)
-  AHRFx<-AHRF[,c(1,11,12,47)]
-  names(AHRFx)<-c("CNTY","FIPst","FIPco","HPSA")
-  AHRFx$FIPco<-str_pad(AHRFx$FIPco, 3, pad="0")
-  AHRFx$GEOID<-paste0("51", AHRFx$FIPco)
-  AHRFx$HPSA<-ifelse(AHRFx$HPSA==0, 3, AHRFx$HPSA)
-  AHRFx$GEOID<-as.factor(AHRFx$GEOID) 
-  AHRFx$HPSA<-as.factor(AHRFx$HPSA) 
+         AHRFx <- AHRF[,c(1,11,12,47)]
+  names(AHRFx) <- c("CNTY","FIPst","FIPco","HPSA")
+   AHRFx$FIPco <- str_pad(AHRFx$FIPco, 3, pad="0")
+   AHRFx$GEOID <- paste0("51", AHRFx$FIPco)
+    AHRFx$HPSA <- ifelse(AHRFx$HPSA==0, 3, AHRFx$HPSA)
+   AHRFx$GEOID <- as.factor(AHRFx$GEOID) 
+    AHRFx$HPSA <- as.factor(AHRFx$HPSA) 
 #Counties/cities in persisent poverty  
-  AHRFx$PERPOV<-ifelse((AHRFx$GEOID=="51027" | AHRFx$GEOID=="51105" | AHRFx$GEOID=="51195" | AHRFx$GEOID=="51660" |
-                        AHRFx$GEOID=="51720" | AHRFx$GEOID=="51730" | AHRFx$GEOID=="51750"), 1, 0)
+  AHRFx$PERPOV <- ifelse((AHRFx$GEOID=="51027" | AHRFx$GEOID=="51105" | AHRFx$GEOID=="51195" | AHRFx$GEOID=="51660" |
+                          AHRFx$GEOID=="51720" | AHRFx$GEOID=="51730" | AHRFx$GEOID=="51750"), 1, 0)
   sum(AHRFx$PERPOV)
-  AHRFx$PERPOV<-as.factor(AHRFx$PERPOV)
+  AHRFx$PERPOV <- as.factor(AHRFx$PERPOV)
 
 #census_api_key("95313390ff9a8c4afc2c080ea4d907a18a29f727")
   
@@ -42,23 +42,23 @@ SEQ_OLIVE<-SEQolive[c(1,7,14,21,28,35,42)]; show_col(SEQ_OLIVE)
   
 url12 <- "https://github.com/uva-bi-sdad/census_cde_demo_2/raw/main/documents/products/processes/derived_variables/va_snf_deficiency_indices_k_e.csv"
 #Read in the Deficiency Index file
-DE<-read.csv(url12); dim(DE); View(DE)
-DE$KE_DEF_IND<-round(DE$E_DEF_IND+DE$K_DEF_IND, 1)
+           DE <- read.csv(url12); dim(DE); View(DE)
+DE$KE_DEF_IND <- round(DE$E_DEF_IND+DE$K_DEF_IND, 1)
 
 #Use a Jenk Breaks
-BREAKS_KE<-getJenksBreaks(DE$KE_DEF_IND[DE$KE_DEF_IND>0], 4, subset = NULL); BREAKS_KE
+BREAKS_KE <- getJenksBreaks(DE$KE_DEF_IND[DE$KE_DEF_IND>0], 4, subset = NULL); BREAKS_KE
   
-DE$group_KE<-rep(NA, length=dim(DE)[1])
+DE$group_KE <- rep(NA, length=dim(DE)[1])
 DE$group_KE[which(DE$KE_DEF_IND==0)]="[0]"
 DE$group_KE[which(DE$KE_DEF_IND>=BREAKS_KE[1] & DE$KE_DEF_IND<BREAKS_KE[2])]="[19.7, 86.1)"
 DE$group_KE[which(DE$KE_DEF_IND>=BREAKS_KE[2] & DE$KE_DEF_IND<BREAKS_KE[3])]="[86.1, 157.5)"
 DE$group_KE[which(DE$KE_DEF_IND>=BREAKS_KE[3])]="[157.5, 314.0]"
-DE$group_KE<-factor(DE$group_KE, 
+DE$group_KE <- factor(DE$group_KE, 
                     levels=c("[0]","[19.7, 86.1)","[86.1, 157.5)","[157.5, 314.0]"))
 
 #Use the Census API to download the geometry variables
 #Age Dependency Ratios by County
-ADRvars<-c(
+ADRvars <- c(
   #Age Dependency Ratio
   "S0101_C01_034E",
   #Old-Age (>64)
@@ -66,25 +66,25 @@ ADRvars<-c(
   #Child (<18)
   "S0101_C01_036E")
 
-ADR<-get_acs(geography="county", 
-             state="VA", 
-             variables=ADRvars, #Age dependency variables
-             year=2020, 
-             survey="acs5", 
-             output="wide", 
-             geometry=TRUE,
-             cache_table = TRUE) 
+ADR <- get_acs(geography="county", 
+               state="VA", 
+               variables=ADRvars, #Age dependency variables
+               year=2020, 
+               survey="acs5", 
+               output="wide", 
+               geometry=TRUE,
+               cache_table = TRUE) 
 
 #Merge the geometry variable with the health professional shortage desgination
 #from HRSA/ARF
-GEOMETRY<-ADR[,c(1,9)]; dim(GEOMETRY)
-HPSA<-merge(GEOMETRY, AHRFx, by="GEOID", all=TRUE); dim(HPSA); View(HPSA)
+GEOMETRY <- ADR[,c(1,9)]; dim(GEOMETRY)
+    HPSA <- merge(GEOMETRY, AHRFx, by="GEOID", all=TRUE); dim(HPSA); View(HPSA)
 
-HPSApalette<-c("1"="#F9F1CB", "2"="#A5A67B", "3"="#4E5827", "NA"="grey")
+HPSApalette < -c("1"="#F9F1CB", "2"="#A5A67B", "3"="#4E5827", "NA"="grey")
 
 #############################################################################
 #Display the HPSA using a choropleth
-HPSA_KE_plot<-ggplot() + 
+HPSA_KE_plot <- ggplot() + 
   geom_sf(data=HPSA, aes(fill=factor(HPSA)), color="grey") + 
 #  geom_sf(fill="transparent", color="black", size=0.7, 
 #          data=temp[HPSA$PERPOV=="1",]) +
